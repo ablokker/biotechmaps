@@ -1,0 +1,14 @@
+//
+//  BioTechFinder-Prefix.pch
+//  BioTechFinder
+//
+//  Created by Alex Blokker on 2/19/16.
+//  Copyright © 2016 Blokkmani. All rights reserved.
+//
+
+#ifndef BioTechFinder_Prefix_pch
+#define BioTechFinder_Prefix_pch
+
+#import <UIKit/UIKit.h>
+
+#endif

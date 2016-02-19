@@ -1,0 +1,3891 @@
+{
+url=http://www.bpirx.com/html/index.aspx?page=home
+name=Breckenridge Pharmaceutical
+city=Berlin, CT
+desc=Generic Pharmaceuticals</td>
+}{
+url=http://www.axeriontherapeutics.com/
+name=Axerion Therapeutics 
+city=Branford, CT
+desc=Prion Proteins</td>
+}{
+url=http://axiomxinc.com/
+name=AxioMx 
+city=Branford, CT
+desc=Custom antibodies</td>
+}{
+url=http://www.celldextherapeutics.com
+name=Celldex Therapeutics 
+city=Branford, CT
+desc=Small Molecules, Biologics, Vaccines</td>
+}{
+url=http://www.cheminpharma.com/
+name=CheminPharma 
+city=Branford, CT
+desc=Drug Discovery Services &amp; Reagents</td>
+}{
+url=http://formatherapeutics.com
+name=Forma Therapeutics 
+city=Branford, CT
+desc=Oncology Drug Discovery</td>
+}{
+url=http://www.freethinktech.com/
+name=FreeThink Technologies 
+city=Branford, CT
+desc=Stability (ASAP) software and analytical services</td>
+}{
+url=http://www.gilead.com
+name=Gilead 
+city=Branford, CT
+desc=Small Molecules</td>
+}{
+url=http://www.thermofisher.com/us/en/home/brands/invitrogen.html
+name=Invitrogen (Thermo Fisher) 
+city=Branford, CT
+desc=Molecular Biology &amp; Biotech Lab Products</td>
+}{
+url=http://www.newhavenpharma.com/
+name=New Haven Pharmaceuticals 
+city=Branford, CT
+desc=Unique API formulations</td>
+}{
+url=http://www.arrienpharma.com
+name=Arrien Pharmaceuticals 
+city=Bridgeport, CT
+desc=Small Molecules</td>
+}{
+url=http://www.bd.com
+name=Becton Dickinson 
+city=Canaan, CT
+desc=Lots of Biotechnology Products</td>
+}{
+url=http://www.alxn.com
+name=Alexion Pharmaceuticals 
+city=Cheshire, CT
+desc=Biologics</td>
+}{
+url=http://www.bioind.com/
+name=Biological Industries 
+city=Cromwell, CT
+desc=PCR, tissue culture, lab products. Contract manufacturing.</td>
+}{
+url=http://www.biodel.com
+name=Biodel 
+city=Danbury, CT
+desc=New Formulations</td>
+}{
+url=http://www.mannkindcorp.com
+name=MannKind 
+city=Danbury, CT
+desc=Inhalable Biologics, Gene Therapy</td>
+}{
+url=http://www.nbsc.com
+name=New Brunswick Scientific (Eppendorf) 
+city=Enfield, CT
+desc=Bio-shakers</td>
+}{
+url=http://www.aptuit.com
+name=Aptuit 
+city=Greenwich, CT
+desc=Contract Small Molecules - Full Lifecycle </td>
+}{
+url=http://www.pfizer.com
+name=Pfizer 
+city=Groton, CT
+desc=Small Molecules, Biologics</td>
+}{
+url=http://lamtherapeutics.com/
+name=LAM Therapeutics 
+city=Guilford, CT
+desc=Lymphangioleiomyomatosis therapies</td>
+}{
+url=http://rx-gen.com
+name=RxGen 
+city=Hamden, CT
+desc=Contract Research &amp; Consulting</td>
+}{
+url=http://www.genomas.com/
+name=Genomas 
+city=Hartford, CT
+desc=Drug tracking</td>
+}{
+url=http://mcra.com/
+name=Musculoskeletal Clinical Regulatory Advisers 
+city=Manchester, CT
+desc=Clinical Research</td>
+}{
+url=http://www.proteinsciences.com
+name=Protein Sciences 
+city=Meriden, CT
+desc=Biologics, Vaccines</td>
+}{
+url=http://www.novogen.com
+name=Novogen 
+city=New Canaan , CT
+desc=Isoflavonoids</td>
+}{
+url=http://www.achillion.com
+name=Achillion 
+city=New Haven, CT
+desc=Small Molecules</td>
+}{
+url=https://www.artificialcelltech.com
+name=Artificial Cell Technologies 
+city=New Haven, CT
+desc=Nanofilm-Based Artificial Cells</td>
+}{
+url=http://www.arvinas.com/
+name=Arvinas 
+city=New Haven, CT
+desc=bifunctional small molecules for protein degradation</td>
+}{
+url=http://www.cmdbioscience.com/
+name=CMD Bioscience 
+city=New Haven, CT
+desc=Computational peptide discovery</td>
+}{
+url=http://www.covidien.com
+name=Covidien  
+city=New Haven, CT
+desc=Medical Devices</td>
+}{
+url=http://www.kolltan.com
+name=Kolltan Pharmaceuticals 
+city=New Haven, CT
+desc=Monoclonal Antibodies</td>
+}{
+url=http://malinplc.com/
+name=Malin 
+city=New Haven, CT
+desc=Acquisition/Incubation</td>
+}{
+url=http://www.marinuspharma.com
+name=Marinus Pharmaceuticals 
+city=New Haven, CT
+desc=Specialty Pharmaceuticals</td>
+}{
+url=http://www.melinta.com/
+name=Melinta Therapeutics 
+city=New Haven, CT
+desc=Small Molecule Discovery</td>
+}{
+url=http://www.transgenomic.com
+name=Transgenomic 
+city=New Haven, CT
+desc=Gene Variation, Mutation Analysis</td>
+}{
+url=http://www.criver.com
+name=Charles River Laboratories 
+city=North Franklin, CT
+desc=Research Animal Models and Preclinical Research</td>
+}{
+url=http://www.newhavenpharma.com/
+name=New Haven Pharmaceuticals 
+city=North Haven, CT
+desc=Unique API formulations</td>
+}{
+url=http://www.mederi-inc.com/
+name=Mederi Therapeutics 
+city=Norwalk, CT
+desc=Radiofrequency devices to treat digestive disorders</td>
+}{
+url=http://www.cns-research.com/
+name=CNS Research of CT 
+city=Pawcatuck, CT
+desc=Clinical Research</td>
+}{
+url=http://us.boehringer-ingelheim.com
+name=Boehringer Ingelheim 
+city=Ridgefield, CT
+desc=Small Molecules, Biologics</td>
+}{
+url=http://www.caratherapeutics.com
+name=Cara Therapeutics 
+city=Shelton, CT
+desc=Small Molecules</td>
+}{
+url=http://thetispharma.com/
+name=Thetis Pharmaceuticals 
+city=Southport, CT
+desc=Drugs similar to existing therapies</td>
+}{
+url=http://www.arvysproteins.com
+name=Arvys Proteins 
+city=Stamford, CT
+desc=Contract Purification</td>
+}{
+url=http://www.loxooncology.com
+name=Loxo Oncology 
+city=Stamford, CT
+desc=Small Molecule</td>
+}{
+url=http://www.purduepharma.com
+name=Purdue Pharma 
+city=Stamford, CT
+desc=Small Molecules</td>
+}{
+url=http://www.sekisuidiagnostics.com
+name=Sekisui Diagnostics (Sekisui Medical) 
+city=Stamford, CT
+desc=Diagnostics</td>
+}{
+url=http://www.spinifexpharma.com.au
+name=Spinifex Pharmaceuticals 
+city=Stamford, CT
+desc=Small Molecules</td>
+}{
+url=http://www.epitogenesis.com
+name=EpitoGenesis 
+city=Storrs, CT
+desc=Vaccine Delivery Technologies</td>
+}{
+url=http://www.parpharm.com
+name=Par Pharmaceutical 
+city=Stratford, CT
+desc=Generic Small Molecules</td>
+}{
+url=http://www.bms.com
+name=Bristol-Myers Squibb 
+city=Wallingford, CT
+desc=Small Molecules, Biologics</td>
+}{
+url=http://www.intensitytherapeutics.com/
+name=Intensity Therapeutics 
+city=Westport, CT
+desc=in situ chemovaccination</td>
+}{
+url=http://www.shire.com
+name=Shire Regenerative Medicine 
+city=Westport, CT
+desc=Dermal Substitute</td>
+}{
+url=http://www.criver.com
+name=Charles River Laboratories 
+city=Willimantic, CT
+desc=Research Animal Models and Preclinical Research</td>
+}{
+url=http://www.fitzgerald-fii.com/
+name=<img height="35px" src="http://biopharmguy.com/images/companies/fitzgerald-fii.jpg" alt="Fitzgerald-fii">
+city=Acton, MA
+desc=Primary and Secondary Antibodies, Recombinant Proteins &amp; ELISA Kits</td>
+}{
+url=http://www.jpt.com/
+name=JPT Peptides Technologies (BioNTech) 
+city=Acton, MA
+desc=Peptide products and services</td>
+}{
+url=http://www.terarecon.com/
+name=TeraRecon 
+city=Acton, MA
+desc=advanced image processing</td>
+}{
+url=http://www.genzyme.com
+name=Genzyme (Sanofi) 
+city=Allston, MA
+desc=Small Molecules, Biologics</td>
+}{
+url=http://www.ivenix.com/
+name=Ivenix 
+city=Amesbury, MA
+desc=Infusion pumps</td>
+}{
+url=http://deuterx.com/
+name=DeuteRx 
+city=Andover, MA
+desc=Chiral switching of existing therapies/candidates</td>
+}{
+url=http://us.eisai.com
+name=Eisai 
+city=Andover, MA
+desc=Small Molecules</td>
+}{
+url=http://www.oraclinical.com/
+name=Ora Clinical 
+city=Andover, MA
+desc=Ophthalmology Clinical Research</td>
+}{
+url=http://www.pfizer.com
+name=Pfizer 
+city=Andover, MA
+desc=Small Molecules, Vaccines, Biologics</td>
+}{
+url=http://www.smith-nephew.com/
+name=Smith &amp; Nephew 
+city=Andover, MA
+desc=Sports Medicine, Trauma, Wound Care, etc</td>
+}{
+url=http://www.transmedics.com/wt/page/index
+name=TransMedics 
+city=Andover, MA
+desc=Heart &amp; Lung Preservation Machines</td>
+}{
+url=http://www.nuvasculartech.com/
+name=NuVascular Technologies 
+city=Ashland, MA
+desc=Nanotech materials for devices</td>
+}{
+url=http://www.terumomedical.com/aboutus/worldwide.aspx
+name=Terumo Cardiovascular Systems 
+city=Ashland, MA
+desc=Medical Devices</td>
+}{
+url=http://www.advantagene.com/
+name=Advantagene 
+city=Auburndale, MA
+desc=Cancer therapy</td>
+}{
+url=http://www.alcyonels.com/
+name=Alcyone Lifesciences 
+city=Ayer, MA
+desc=Convection-enhanced delivery</td>
+}{
+url=http://www.anikatherapeutics.com
+name=Anika Therapeutics 
+city=Bedford, MA
+desc=Small Molecules</td>
+}{
+url=http://www.be4.com/
+name=Beryllium 
+city=Bedford, MA
+desc=Biotech Services</td>
+}{
+url=http://www.bionxmed.com/
+name=BionX Medical 
+city=Bedford, MA
+desc=Bioinic propulsion, prosthetics</td>
+}{
+url=http://www.celgene.com
+name=Celgene 
+city=Bedford, MA
+desc=Small Molecules</td>
+}{
+url=http://www.htrf.com
+name=Cisbio (IBA group) 
+city=Bedford, MA
+desc=Assays</td>
+}{
+url=http://conagen-inc.com/
+name=Conagen 
+city=Bedford, MA
+desc=Protein production system</td>
+}{
+url=http://www.conformis.com/
+name=ConorMIS 
+city=Bedford, MA
+desc=Knee replacement implants, customized othopaedics</td>
+}{
+url=http://www.hologic.com
+name=Hologic 
+city=Bedford, MA
+desc=Diagnostic, Imaging</td>
+}{
+url=http://www.integralbiosystems.com
+name=Integral Biosystems 
+city=Bedford, MA
+desc=Drug Delivery Services</td>
+}{
+url=http://www.millipore.com
+name=Millipore (Merck KGaA) 
+city=Bedford, MA
+desc=Purification, Analytic Biologics, Discovery </td>
+}{
+url=http://www.ocutx.com/
+name=Ocular Therapeutix 
+city=Bedford, MA
+desc=sustained ophthalmic therapies with proprietary tailored hydrogels</td>
+}{
+url=http://www.toxikon.com
+name=Toxikon 
+city=Bedford, MA
+desc=Biological and analytical services</td>
+}{
+url=http://www.cns-research.com/
+name=CNS Research of MA 
+city=Bellingham, MA
+desc=Clinical Research</td>
+}{
+url=http://www.cmed.cc/
+name=Collagen Medical 
+city=Belmont, MA
+desc=MRI contrast agents</td>
+}{
+url=http://www.aberjonalabs.com
+name=Aberjona Laboratories 
+city=Beverly, MA
+desc=Contract Medicinal Chemistry</td>
+}{
+url=http://www.advastim.com/
+name=AdvaStim 
+city=Beverly, MA
+desc=Neurostimulation platform</td>
+}{
+url=http://archerdx.com/
+name=ArcherDx 
+city=Beverly, MA
+desc=Sequencing analysis software</td>
+}{
+url=http://www.biohelix.com
+name=BioHelix (Quidel) 
+city=Beverly, MA
+desc=Molecular Diagnostics</td>
+}{
+url=http://cellanyx.com/
+name=Cellanyx Diagnostics 
+city=Beverly, MA
+desc=Cancer diagnostic</td>
+}{
+url=http://cellceutix.com/
+name=Cellceutix 
+city=Beverly, MA
+desc=Small Molecules</td>
+}{
+url=http://www.enzymatics.com/
+name=Enzymatics (Qiagen) 
+city=Beverly, MA
+desc=Enzymatic reagents; Sequencing Reagents</td>
+}{
+url=http://www.hepatochem.com/
+name=HepatoChem 
+city=Beverly, MA
+desc=Drug Discovery Services</td>
+}{
+url=http://www.ranbiotechnologies.com/
+name=RAN biotechnologies 
+city=Beverly, MA
+desc=Chemicals</td>
+}{
+url=http://www.sirius-analytical.com
+name=Sirius Analytical 
+city=Beverly, MA
+desc=Analytical Services &amp; Support</td>
+}{
+url=http://www.aushon.com
+name=Aushon Biosystems 
+city=Billerica, MA
+desc=Biomarker Assay Development</td>
+}{
+url=http://axsun.com/
+name=Axsun (Volcano) 
+city=Billerica, MA
+desc=Medical Devices</td>
+}{
+url=http://www.bd.com
+name=Becton Dickinson 
+city=Billerica, MA
+desc=Lots of Biotechnology Products</td>
+}{
+url=http://www.bruker.com/
+name=Bruker 
+city=Billerica, MA
+desc=Scientific Instruments</td>
+}{
+url=http://www.emdserono.com
+name=EMD Serono (Merck KGaA) 
+city=Billerica, MA
+desc=Small Molecules, Biologics</td>
+}{
+url=http://www.myomnipod.com/
+name=Insulet 
+city=Billerica, MA
+desc=Insulin Pump</td>
+}{
+url=http://www.millipore.com
+name=Millipore (Merck KGaA) 
+city=Billerica, MA
+desc=Purification, Analytic Biologics, Discovery </td>
+}{
+url=http://www.novabiomedical.com
+name=Nova Biomedical 
+city=Billerica, MA
+desc=Sample Analyzers</td>
+}{
+url=http://www.pion-inc.com
+name=Pion 
+city=Billerica, MA
+desc=Dissolution Data</td>
+}{
+url=http://raindancetech.com/
+name=Raindance Technologies 
+city=Billerica, MA
+desc=Genomic Sequencing Technology</td>
+}{
+url=http://abvitro.com/
+name=AbVitro 
+city=Boston, MA
+desc=Human Antibody Therapies</td>
+}{
+url=http://www.acetylon.com
+name=Acetylon Pharmaceuticals 
+city=Boston, MA
+desc=Histone Deacetylase Inhibitors</td>
+}{
+url=http://www.adipogenix.com/
+name=AdipoGenix 
+city=Boston, MA
+desc=Small molecule pharmaceuticals to treat obesity and its co-morbidities</td>
+}{
+url=http://www.advancedproteome.com
+name=Advanced Proteome Therapeutics 
+city=Boston, MA
+desc=Improving Pharmacokinetics</td>
+}{
+url=http://www.albireopharma.com/
+name=Albireo 
+city=Boston, MA
+desc=Small Molecules?</td>
+}{
+url=http://alkeus.com/
+name=Alkeus Pharmaceuticals 
+city=Boston, MA
+desc=Ophthalmics (virtual)</td>
+}{
+url=http://www.ankaatx.com/
+name=Ankaa Therapeutics 
+city=Boston, MA
+desc=Targeted therapies to address drug resistance</td>
+}{
+url=http://www.aratana.com/
+name=Aratana Therapeutics 
+city=Boston, MA
+desc=Veterinary drugs</td>
+}{
+url=http://www.arietis.org/
+name=Arietis Pharma 
+city=Boston, MA
+desc=Antimicrobials</td>
+}{
+url=http://www.arisaph.com
+name=Arisaph Pharmaceuticals 
+city=Boston, MA
+desc=Proprietary Drug Discovery Platform</td>
+}{
+url=http://asymmetrex.com/
+name=Asymmetrex 
+city=Boston, MA
+desc=Adult stem cell 'production'</td>
+}{
+url=http://www.aztherapies.com/
+name=AZTherapies 
+city=Boston, MA
+desc=Combination small molecules</td>
+}{
+url=http://www.biodirection.com/
+name=BioDirection 
+city=Boston, MA
+desc=Concussion diagnosis</td>
+}{
+url=http://www.bostontrials.com/index.php
+name=Boston Clinical Trials 
+city=Boston, MA
+desc=Clinical Research</td>
+}{
+url=http://www.cambridgebiomedical.com
+name=Cambridge Biomedical 
+city=Boston, MA
+desc=Assay Development</td>
+}{
+url=http://decibeltx.com/
+name=Decibel Therapeutics 
+city=Boston, MA
+desc=New medicines to protect, restore &amp; repair hearing</td>
+}{
+url=http://decimmune.com/
+name=DecImmune Therapeutics 
+city=Boston, MA
+desc=Monoclonal Antibody</td>
+}{
+url=http://enevolv.com/
+name=enEvolv 
+city=Boston, MA
+desc=Bioengineered organisms</td>
+}{
+url=http://www.entregabio.com/
+name=Entrega (Enlight Biosciences) 
+city=Boston, MA
+desc=Oral delivery of peptides, proteins, and poorly bioavailable small molecules</td>
+}{
+url=http://www.epirusbiopharma.com/
+name=Epirus Biopharmaceuticals 
+city=Boston, MA
+desc=Biosimilars of Infliximab (Remicade), Bevacizumab (Avastin), adalimumab (Humira)</td>
+}{
+url=http://www.flex-pharma.com/
+name=FlexPharma 
+city=Boston, MA
+desc=Small Molecules?</td>
+}{
+url=http://www.fluoropharma.com
+name=FluoroPharma 
+city=Boston, MA
+desc=Molecular Imaging</td>
+}{
+url=http://www.gelesis.com
+name=Gelesis 
+city=Boston, MA
+desc=Small Molecules?</td>
+}{
+url=http://ginkgobioworks.com
+name=Ginkgo Bioworks 
+city=Boston, MA
+desc=Engineered Organisms</td>
+}{
+url=http://www.gliacure.com/
+name=GliaCure 
+city=Boston, MA
+desc=neurological and neuropsychiatric therapies</td>
+}{
+url=http://hallorancg.com/
+name=Halloran Consulting Group 
+city=Boston, MA
+desc=Consulting</td>
+}{
+url=http://humanmetabolome.com/en/
+name=Human Metabolome Technologies America 
+city=Boston, MA
+desc=capillary electrophoresis mass spectrometry-based metabolomics technologies</td>
+}{
+url=http://www.immunetics.com/index.html
+name=Immunetics 
+city=Boston, MA
+desc=Diagnostics</td>
+}{
+url=http://www.informgenomics.com/
+name=Inform Genomics 
+city=Boston, MA
+desc=Genomic-based medicines</td>
+}{
+url=http://www.intarcia.com
+name=Intarcia Therapeutics 
+city=Boston, MA
+desc=Small Molecules</td>
+}{
+url=http://www.intrinsiccro.com
+name=Intrinsic Imaging 
+city=Boston, MA
+desc=Imaging for Clinical trials</td>
+}{
+url=http://www.juniperpharma.com/
+name=Juniper Pharmaceuticals 
+city=Boston, MA
+desc=Small molecules</td>
+}{
+url=http://www.kerafast.com/
+name=Kerafast 
+city=Boston, MA
+desc=Reagents for the Greater Good</td>
+}{
+url=http://www.keryx.com
+name=Keryx Biopharmaceuticals 
+city=Boston, MA
+desc=Small Molecules</td>
+}{
+url=http://www.matrivax.com
+name=Matrivax Research &amp; Development 
+city=Boston, MA
+desc=Encapsulation of Bacterial Pathogens</td>
+}{
+url=http://www.medivector.com
+name=Medivector 
+city=Boston, MA
+desc=Reduced Cost Drug Development System</td>
+}{
+url=http://www.mellitusllc.com/
+name=Mellitus 
+city=Boston, MA
+desc=Diagnostic for gestational diabetes</td>
+}{
+url=http://www.merck.com
+name=Merck 
+city=Boston, MA
+desc=Small Molecules, Vaccines, Biologics</td>
+}{
+url=http://www.metastat.com/
+name=MetaStat 
+city=Boston, MA
+desc=Molecular Diagnostics</td>
+}{
+url=http://www.novarepharma.com/
+name=Novare Pharmaceuticals 
+city=Boston, MA
+desc=Regenerative Medicine</td>
+}{
+url=http://www.novopyxis.com/
+name=Novopyxis 
+city=Boston, MA
+desc=Transdermal drug delivery system</td>
+}{
+url=http://www.parabasegenomics.com/
+name=Parabase Genomics 
+city=Boston, MA
+desc=sample collection and diagnosis of genetic conditions in newborns</td>
+}{
+url=http://www.paratekpharm.com
+name=Paratek Pharmaceuticals 
+city=Boston, MA
+desc=Small Molecules</td>
+}{
+url=http://parsagendx.com/
+name=Parsagen Diagnostics 
+city=Boston, MA
+desc=Preterm birth diagnostic</td>
+}{
+url=http://peartherapeutics.com/
+name=Pear Therapeutics 
+city=Boston, MA
+desc=Digital applications in concert with existing medicines</td>
+}{
+url=http://www.pieris.com/
+name=Pieris Pharmaceuticals 
+city=Boston, MA
+desc=Modified Anticalins</td>
+}{
+url=http://www.pivotpharma.com/
+name=Pivot Pharmaceuticals 
+city=Boston, MA
+desc=Re-screening and developing old drugs</td>
+}{
+url=http://www.quanticate.com
+name=Quanticate 
+city=Boston, MA
+desc=Clinical Research</td>
+}{
+url=http://www.rhythmtx.com
+name=Rhythm Pharmaceuticals 
+city=Boston, MA
+desc=Peptide Therapeutics</td>
+}{
+url=http://scifluor.com
+name=SciFluor Life Sciences (Allied Minds) 
+city=Boston, MA
+desc=Drug Fluorination </td>
+}{
+url=http://www.selectxpharm.com
+name=SelectX 
+city=Boston, MA
+desc=Small Molecules</td>
+}{
+url=http://www.sistemic.co.uk
+name=Sistemic 
+city=Boston, MA
+desc=miRNA Services</td>
+}{
+url=http://www.skulpt.me/health/
+name=Skulpt Health 
+city=Boston, MA
+desc=Muscle measurement</td>
+}{
+url=http://www.sotio.com/
+name=SOTIO 
+city=Boston, MA
+desc=Active Cellular Immunotherapy</td>
+}{
+url=http://sqzbiotech.com/
+name=SQZ Biotech 
+city=Boston, MA
+desc=Drug Delivery Research Technology</td>
+}{
+url=http://www.strategiatx.com/
+name=Strategia Therapeutics 
+city=Boston, MA
+desc=Acquisition &amp; Accelerated Development</td>
+}{
+url=http://www.symbiotix-bio.com/
+name=Symbiotix Biotherapies 
+city=Boston, MA
+desc=Human microbiome-derived therapeutics</td>
+}{
+url=http://www.talmedical.com/
+name=Tal Medical 
+city=Boston, MA
+desc=neuromodulation device</td>
+}{
+url=http://www.teibio.com
+name=TEI Biosciences  (Integra Life Sciences) 
+city=Boston, MA
+desc=Biomatrices</td>
+}{
+url=http://www.topokinetherapeutics.com/
+name=Topokine Therapeutics 
+city=Boston, MA
+desc=Topical medications for non-invasive contouring of the face and body</td>
+}{
+url=http://www.tremrx.com/
+name=TremRx 
+city=Boston, MA
+desc=Vaccines</td>
+}{
+url=http://www.vedantabio.com/
+name=Vedanta Biosciences 
+city=Boston, MA
+desc=Therapies&nbsp;that modulate pathways of interaction between the human microbiome and the host immune system</td>
+}{
+url=http://www.vrtx.com
+name=Vertex 
+city=Boston, MA
+desc=Small Molecules</td>
+}{
+url=http://www.viacord.com
+name=ViaCord (PerkinElmer) 
+city=Boston, MA
+desc=Cord Blood Banking</td>
+}{
+url=http://visionmedicines.com/
+name=Vision Medicines 
+city=Boston, MA
+desc=Ophthalmology</td>
+}{
+url=http://wavelifesciences.com/
+name=WaVe Life Sciences 
+city=Boston, MA
+desc=Nucleic acid therapies</td>
+}{
+url=http://www.ziopharm.com
+name=Ziopharm Oncology 
+city=Boston, MA
+desc=Small Molecule Cancer Drugs</td>
+}{
+url=http://www.declionpharma.com/
+name=Déclion Pharmaceuticals 
+city=Boxford, MA
+desc=Peptide creation/selection technology</td>
+}{
+url=http://www.braintreelabs.com
+name=Braintree Labs 
+city=Braintree, MA
+desc=Bowel Prep</td>
+}{
+url=http://paragonixtechnologies.com/
+name=Paragonix Technologies 
+city=Braintree, MA
+desc=Organ Transport System</td>
+}{
+url=http://www.lakeregionmedical.com/
+name=Lake Region Medical (Greatbatch) 
+city=Brimfield, MA
+desc=Medical &amp; Surgical Devices</td>
+}{
+url=http://www.beaconclinical.com/
+name=Beacon Clinical Research 
+city=Brockton, MA
+desc=Clinical Research</td>
+}{
+url=http://www.tarixpharma.com
+name=Tarix Pharmaceuticals 
+city=Brookline, MA
+desc=Peptides</td>
+}{
+url=http://transplantgenomics.com/
+name=Transplant Genomics 
+city=Brookline, MA
+desc=Monitoring to prevent transplant rejection</td>
+}{
+url=http://www.aldeyra.com/
+name=Aldeyra Therapeutics 
+city=Burlington, MA
+desc=Aldehyde-trap therapies</td>
+}{
+url=http://www.dyax.com
+name=Dyax (Shire) 
+city=Burlington, MA
+desc=Biologics</td>
+}{
+url=http://www.flexiontherapeutics.com
+name=Flexion Therapeutics 
+city=Burlington, MA
+desc=Osteoarthritis Treatments</td>
+}{
+url=http://www.fortressbiotech.com/
+name=Fortress Biotech 
+city=Burlington, MA
+desc=Small Molecules, Helminth worm eggs as a drug</td>
+}{
+url=http://www.infraredx.com
+name=InfraReDx 
+city=Burlington, MA
+desc=Medical Devices</td>
+}{
+url=http://integralife.com
+name=Integra Life Sciences 
+city=Burlington, MA
+desc=Medical Devices</td>
+}{
+url=http://www.lemaitre.com/
+name=LeMaitre Vascular 
+city=Burlington, MA
+desc=Vascular surgical devices</td>
+}{
+url=http://www.millipore.com
+name=Millipore (Merck KGaA) 
+city=Burlington, MA
+desc=Purification, Analytic Biologics, Discovery </td>
+}{
+url=http://www.oxyrane.com/
+name=Oxyrane 
+city=Burlington, MA
+desc=enzyme replacement therapies</td>
+}{
+url=http://www.thoratec.com
+name=Thoratec (St. Jude Medical) 
+city=Burlington, MA
+desc=Medical Devices</td>
+}{
+url=http://www.visgotx.com/
+name=Visgo&nbsp;Therapeutics 
+city=Burlington, MA
+desc=Therapeutic products for age and injury-related joint conditions</td>
+}{
+url=http://www.molecularmd.com
+name=MolecularMD 
+city=Cambidge, MA
+desc=Molecular Diagnostics</td>
+}{
+url=http://www.121bio.com/
+name=121 Bio 
+city=Cambridge, MA
+desc=Enzymatic modification of proteins &amp; cells</td>
+}{
+url=http://www.abazyme.com/
+name=Abazyme 
+city=Cambridge, MA
+desc=Antibody production, services</td>
+}{
+url=http://www.abcam.com
+name=Abcam 
+city=Cambridge, MA
+desc=Antibodies</td>
+}{
+url=http://www.acceleronpharma.com
+name=Acceleron Pharma 
+city=Cambridge, MA
+desc=Biologics</td>
+}{
+url=http://www.advirna.com/
+name=Advirna&nbsp; 
+city=Cambridge, MA
+desc=RNAi Technology Platform</td>
+}{
+url=http://www.aegerion.com
+name=Aegerion Pharmaceuticals 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=http://www.affinivax.com/
+name=Affinivax 
+city=Cambridge, MA
+desc=Vaccine Discovery Technology</td>
+}{
+url=http://www.agios.com
+name=Agios Pharmaceuticals 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=http://www.agtc.com
+name=AGTC 
+city=Cambridge, MA
+desc=Gene Therapy</td>
+}{
+url=http://www.aileronrx.com
+name=Aileron Therapeutics 
+city=Cambridge, MA
+desc=Perpetually Active Peptides</td>
+}{
+url=http://akashirx.com/
+name=Akashi Therapeutics 
+city=Cambridge, MA
+desc=Small Molecules, Peptides</td>
+}{
+url=http://www.akebia.com
+name=Akebia Therapeutics 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=http://akrivis.com/
+name=Akrivis Technologies 
+city=Cambridge, MA
+desc=Diagnostics</td>
+}{
+url=http://www.aldatubio.com/
+name=Aldatu Biosciences 
+city=Cambridge, MA
+desc=HIV drug resistance phenotyping</td>
+}{
+url=http://www.alxn.com
+name=Alexion Pharmaceuticals 
+city=Cambridge, MA
+desc=Biologics</td>
+}{
+url=http://www.alnylam.com
+name=Alnylam Pharmaceuticals 
+city=Cambridge, MA
+desc=RNAi</td>
+}{
+url=http://www.amgen.com
+name=Amgen 
+city=Cambridge, MA
+desc=Small Molecules, Biologics</td>
+}{
+url=http://www.amsbio.com/
+name=AMS Biotechnology 
+city=Cambridge, MA
+desc=Numerous assays, reagents and lab tools of all types</td>
+}{
+url=http://amylyx.com/
+name=Amylyx 
+city=Cambridge, MA
+desc=Combination of existing products</td>
+}{
+url=http://www.anchortx.com
+name=Anchor Therapeutics 
+city=Cambridge, MA
+desc=Cancer, Inflammation</td>
+}{
+url=https://www.aobiome.com/
+name=AOBiome 
+city=Cambridge, MA
+desc=Bacterial skin therapy</td>
+}{
+url=http://aquinnahpharma.com/
+name=Aquinnah Pharmaceuticals 
+city=Cambridge, MA
+desc=ALS targeting drugs</td>
+}{
+url=http://www.ariad.com
+name=Ariad Pharmaceuticals 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=http://www.arianapharma.com/
+name=Ariana Pharma 
+city=Cambridge, MA
+desc=Clinical &amp; Biomarker Data Analytics</td>
+}{
+url=http://www.arsiarx.com/
+name=Arsia Therapeutics 
+city=Cambridge, MA
+desc=Biologics</td>
+}{
+url=http://www.artaxbiopharma.com/
+name=Artax Biopharma 
+city=Cambridge, MA
+desc=Small molecule</td>
+}{
+url=http://www.arteaus.com/
+name=Arteaus Therapeutics 
+city=Cambridge, MA
+desc=Antibodies for migraine</td>
+}{
+url=https://www.astrocytepharma.com/
+name=Astrocyte Pharmaceuticals 
+city=Cambridge, MA
+desc=Treatment of TBI, Stroke, and Alzheimer’s Disease, and other injuries to the brain</td>
+}{
+url=http://www.audiontherapeutics.com/
+name=Audion Therapeutics 
+city=Cambridge, MA
+desc=Hearing loss therapies</td>
+}{
+url=http://www.aurabiosciences.com
+name=Aura Biosciences 
+city=Cambridge, MA
+desc=Delivery by Psuedo-Viruses</td>
+}{
+url=http://www.auxocell.com/
+name=Auxocell Laboratories 
+city=Cambridge, MA
+desc=Solid tissue processing equipment</td>
+}{
+url=http://www.aveooncology.com
+name=AVEO Oncology 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=http://www.axiosbiosciences.com/
+name=Axios Biosciences 
+city=Cambridge, MA
+desc=Small Molecules for oncology</td>
+}{
+url=http://www.baxalta.com/index.page
+name=Baxalta 
+city=Cambridge, MA
+desc=Biopharmaceuticals</td>
+}{
+url=http://www.bayer.com
+name=Bayer Diagnostics 
+city=Cambridge, MA
+desc=Diagnostics</td>
+}{
+url=http://bgiamericas.com/
+name=BGI 
+city=Cambridge, MA
+desc=Sequencing &amp; Bioinformatics services</td>
+}{
+url=http://bindtherapeutics.com
+name=BIND Therapeutics 
+city=Cambridge, MA
+desc=Nanomolecules</td>
+}{
+url=http://www.bioanalytixinc.com/
+name=BioAnalytix&nbsp; 
+city=Cambridge, MA
+desc=Biologics development using advanced analytics</td>
+}{
+url=http://bioaxonebio.com/
+name=BioAxone Biosciences 
+city=Cambridge, MA
+desc=Regenerative Medicine</td>
+}{
+url=https://www.biogen.com/
+name=Biogen 
+city=Cambridge, MA
+desc=Small Molecules, Biologics</td>
+}{
+url=http://www.biomerieux-usa.com
+name=bioMerieux 
+city=Cambridge, MA
+desc=Diagnostics</td>
+}{
+url=http://bionevia.com/
+name=BioNevia Pharmaceuticals 
+city=Cambridge, MA
+desc=Small Molecule</td>
+}{
+url=http://www.bluebirdbio.com
+name=bluebird bio 
+city=Cambridge, MA
+desc=Gene Therapy, Cellular Extraction &amp; Reintroduction</td>
+}{
+url=http://www.blueprintmedicines.com
+name=Blueprint Medicines 
+city=Cambridge, MA
+desc=Small Molecule Discovery</td>
+}{
+url=http://www.bostonbiochem.com
+name=Boston Biochem (R&amp;D Systems) 
+city=Cambridge, MA
+desc=Proteins, Antibodies, etc</td>
+}{
+url=http://www.bostonbiomedical.com
+name=Boston Biomedical (Dainippon Sumitomo Pharma) 
+city=Cambridge, MA
+desc=RNAi, Small Molecules</td>
+}{
+url=http://bostononcology.com/
+name=Boston Oncology 
+city=Cambridge, MA
+desc=Establishing local manufacturing in emerging markets</td>
+}{
+url=http://burkebioventures.com/
+name=Burke Bioventures 
+city=Cambridge, MA
+desc=Consulting - scientific direction and strategic advice</td>
+}{
+url=
+name= 
+city=Cambridge, MA
+desc=ubiquitin-proteasome system based therapeutics</td>
+}{
+url=http://www.cancertechnology.com
+name=Cancer Research Technology 
+city=Cambridge, MA
+desc=Cancer Drug Discovery and Technology Transfer</td>
+}{
+url=http://www.catabasis.com/
+name=Catabasis 
+city=Cambridge, MA
+desc=Small Molecules Linked to Omega-3 FAs</td>
+}{
+url=http://ceruleanrx.com
+name=Cerulean Pharma 
+city=Cambridge, MA
+desc=Nanopharmaceuticals</td>
+}{
+url=http://checkmatepharma.com/
+name=Checkmate Pharma 
+city=Cambridge, MA
+desc=Cancer Immunotherapy</td>
+}{
+url=http://claritasgenomics.com/
+name=Claritas Genomics 
+city=Cambridge, MA
+desc=genetic diagnostic laboratory</td>
+}{
+url=http://www.codiakbio.com/
+name=Codiak Biosciences 
+city=Cambridge, MA
+desc=Exosomes</td>
+}{
+url=http://www.colucid.com
+name=CoLucid Pharmaceuticals 
+city=Cambridge, MA
+desc=CNS Therapeutics</td>
+}{
+url=http://compasstherapeutics.com/
+name=Compass Therapeutics 
+city=Cambridge, MA
+desc=Antibody Therapies</td>
+}{
+url=http://www.constellationpharma.com
+name=Constellation Pharmaceuticals 
+city=Cambridge, MA
+desc=Epigenetic Targeting</td>
+}{
+url=http://crisprtx.com/
+name=CRISPR Therapeutics 
+city=Cambridge&nbsp;, MA
+desc=CRISPR-Cas9 therapy</td>
+}{
+url=http://www.curevac.com/
+name=CureVac 
+city=Cambridge, MA
+desc=mRNA treatments</td>
+}{
+url=http://www.cyclicarx.com/
+name=Cyclica 
+city=Cambridge, MA
+desc=Data analysis for drug discovery</td>
+}{
+url=http://www.cydanco.com/
+name=Cydan 
+city=Cambridge, MA
+desc=Company acquires rare disease products moves forward then spins out companies</td>
+}{
+url=http://cyteir.com/
+name=Cyteir Therapeutics 
+city=Cambridge, MA
+desc=Rapid destruction of cancer cells</td>
+}{
+url=http://www.daktaridx.com
+name=Daktari Diagnostics 
+city=Cambridge, MA
+desc=Diagnostics</td>
+}{
+url=http://www.deciphera.com/
+name=Deciphera Pharmaceuticals 
+city=Cambridge, MA
+desc=kinase inhibitor treatments for cancer</td>
+}{
+url=http://www.dicerna.com
+name=Dicerna Pharmaceuticals 
+city=Cambridge, MA
+desc=RNAi</td>
+}{
+url=http://dimensiontx.com/
+name=Dimension Therapeutics 
+city=Cambridge, MA
+desc=Gene Therapy</td>
+}{
+url=http://edimerpharma.com/
+name=Edimer Pharmaceuticals 
+city=Cambridge, MA
+desc=Recombinant Protein</td>
+}{
+url=http://editasmedicine.com/
+name=Editas Medicine 
+city=Cambridge, MA
+desc=Genome Editing Therapies (CRISPR)</td>
+}{
+url=http://www.eippharma.com/
+name=EIP Pharma 
+city=Cambridge, MA
+desc=Alzheimer's treatment</td>
+}{
+url=http://www.elevenbio.com
+name=Eleven Biotherapeutics 
+city=Cambridge, MA
+desc=Biologics</td>
+}{
+url=http://elpidera.com/
+name=Elpidera (Moderna Therapeutics) 
+city=Cambridge, MA
+desc=mRNA based medicines for rare diseases</td>
+}{
+url=http://www.emulatebio.com/
+name=Emulate Bio 
+city=Cambridge, MA
+desc=Organs-on-chips</td>
+}{
+url=http://enbiotix.com/
+name=EnBiotix&nbsp; 
+city=Cambridge, MA
+desc=anti-infective inventions</td>
+}{
+url=http://www.energesispharma.com
+name=Energesis Pharmaceuticals 
+city=Cambridge, MA
+desc=Therapies targeting brown adipose fat tissue</td>
+}{
+url=http://www.ensembletx.com
+name=Ensemble Therapeutics 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=http://www.enterome.fr/
+name=Enterome&nbsp; 
+city=Cambridge, MA
+desc=Human gut microbiome targeting</td>
+}{
+url=http://www.enumeral.com/
+name=Enumeral Biomedical 
+city=Cambridge, MA
+desc=Therapeutic Antibody Discovery</td>
+}{
+url=http://www.enumeral.com/
+name=Enumeral Biomedical 
+city=Cambridge, MA
+desc=Therapeutic Antibody Discovery</td>
+}{
+url=http://epizyme.com
+name=Epizyme 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=https://era7bioinformatics.com/en/index.cfm
+name=Era7 Bioinformatics 
+city=Cambridge, MA
+desc=next-gen sequencing analytics</td>
+}{
+url=http://www.etagenpharma.com/
+name=ETAGEN Pharma 
+city=Cambridge, MA
+desc=Synthetic oligonucleotide gene-editing therapy</td>
+}{
+url=http://euthymics.com/
+name=Euthymics Biosciences 
+city=Cambridge, MA
+desc=Antidepressants</td>
+}{
+url=http://eutropics.com
+name=Eutropics Pharmaceuticals 
+city=Cambridge, MA
+desc=Cancer Apoptosis Enabler</td>
+}{
+url=http://www.evelotx.com/
+name=Evelo Therapeutics 
+city=Cambridge, MA
+desc=Oncobiotics</td>
+}{
+url=http://www.exosomedx.com/
+name=Exosome Diagnostics 
+city=Cambridge, MA
+desc=biofluid-based molecular diagnostic tests</td>
+}{
+url=http://extendbio.com/
+name=Extend Biosciences 
+city=Cambridge, MA
+desc=Sustained delivery of peptides</td>
+}{
+url=
+name=Felicitex Therapeutics 
+city=Cambridge, MA
+desc=Cancer drug discovery</td>
+}{
+url=http://www.foundationmedicine.com/
+name=Foundation Medicine (Roche) 
+city=Cambridge, MA
+desc=Diagnostic Assay</td>
+}{
+url=https://www.gen9bio.com/
+name=Gen9 
+city=Cambridge, MA
+desc=Synthetic Biology Products</td>
+}{
+url=http://www.genfit.com
+name=Genfit 
+city=Cambridge, MA
+desc=Drug Discovery</td>
+}{
+url=http://www.genocea.com
+name=Genocea Bioscience 
+city=Cambridge, MA
+desc=Vaccines</td>
+}{
+url=http://www.genometry.com/home
+name=Genometry 
+city=Cambridge, MA
+desc=high-throughput low-cost gene-expression profiling&nbsp;</td>
+}{
+url=http://www.genosco.com
+name=Genosco 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=http://www.genospace.com/
+name=GenoSpace 
+city=Cambridge, MA
+desc=Platform for genomic data</td>
+}{
+url=http://www.genovis.com
+name=Genovis 
+city=Cambridge, MA
+desc=Nanoparticles</td>
+}{
+url=http://www.gensyntech.com/
+name=GenSyn Technologies 
+city=Cambridge, MA
+desc=Customized particle engineering solutions</td>
+}{
+url=http://www.genzyme.com
+name=Genzyme (Sanofi) 
+city=Cambridge, MA
+desc=Small Molecules, Biologics</td>
+}{
+url=http://gitrrx.com/
+name=GITR 
+city=Cambridge, MA
+desc=Monoclonal Antibody</td>
+}{
+url=http://www.gnshealthcare.com/
+name=GNS Healthcare 
+city=Cambridge, MA
+desc=Analytics</td>
+}{
+url=http://gnubio.com/
+name=GnuBIO (Bio-rad) 
+city=Cambridge, MA
+desc=Next-gen Sequencing Devices</td>
+}{
+url=https://www.goodstartgenetics.com/
+name=GoodStart Genetics 
+city=Cambridge, MA
+desc=Genetic screening</td>
+}{
+url=http://www.gritstoneoncology.com/
+name=Gritstone Oncology 
+city=Cambridge, MA
+desc=Personalized cancer vaccines</td>
+}{
+url=http://www.h3biomedicine.com
+name=H3 Biomedicine 
+city=Cambridge, MA
+desc=Small Molecules - Oncology</td>
+}{
+url=http://hemedex.com/
+name=Hemedex 
+city=Cambridge, MA
+desc=Perfusion monitoring</td>
+}{
+url=http://www.hydrabiosciences.com
+name=Hydra Biosciences 
+city=Cambridge, MA
+desc=Ion Channels</td>
+}{
+url=http://www.xrpro.com/
+name=Icagen (2) 
+city=Cambridge, MA
+desc=High-throughput screening</td>
+}{
+url=http://www.iderapharma.com
+name=Idera Pharmaceuticals 
+city=Cambridge, MA
+desc=Oligonucleotide therapies</td>
+}{
+url=http://www.immuneering.com/
+name=Immuneering 
+city=Cambridge, MA
+desc=Bioinformatics for genomics</td>
+}{
+url=http://www.immusant.com
+name=ImmusanT 
+city=Cambridge, MA
+desc=Peptide therapeutic vaccine</td>
+}{
+url=http://www.infi.com
+name=Infinity Pharmaceuticals 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=http://inhibikase.com
+name=Inhibikase Therapeutics 
+city=Cambridge, MA
+desc=Therapeutic Vaccines</td>
+}{
+url=http://intelliatx.com/
+name=Intellia Therapeutics 
+city=Cambridge, MA
+desc=Therapeutic gene editing (CRISPR)</td>
+}{
+url=http://www.invivotherapeutics.com/
+name=InVivo Therapeutics 
+city=Cambridge, MA
+desc=Neural-spinal scaffold</td>
+}{
+url=http://www.ipsen.com
+name=Ipsen 
+city=Cambridge, MA
+desc=Small Molecules, Biologics</td>
+}{
+url=http://www.ironwoodpharma.com
+name=Ironwood Pharma 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=http://www.jouncetx.com/
+name=Jounce Therapeutics 
+city=Cambridge, MA
+desc=Cancer Immunotherapies</td>
+}{
+url=http://www.kewgroup.com/
+name=KEW Group 
+city=Cambridge, MA
+desc=Cancer genetic information</td>
+}{
+url=http://www.labcentrix.com
+name=LabCentrix 
+city=Cambridge, MA
+desc=Bioinformatics</td>
+}{
+url=http://www.leaptx.com/
+name=Leap Therapeutics 
+city=Cambridge, MA
+desc=Monoclonal antibody</td>
+}{
+url=http://www.luctherapeutics.com/
+name=Luc Therapeutics 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=http://www.lysosomaltx.com/
+name=Lysosomal Therapeutics 
+city=Cambridge, MA
+desc=Small Molecules for neurodegenerative disorders</td>
+}{
+url=http://www.manusbio.com
+name=Manus Biosynthesis 
+city=Cambridge, MA
+desc=Synthetic Biology</td>
+}{
+url=http://medgenome.com/#
+name=MedGenome&nbsp; 
+city=Cambridge, MA
+desc=Diagnostics &amp; Genomic Solutions</td>
+}{
+url=http://www.medincell.com
+name=MedinCell 
+city=Cambridge, MA
+desc=API Delivery Gel</td>
+}{
+url=http://www.medvax.net/
+name=Medvax Technologies 
+city=Cambridge, MA
+desc=Cancer vaccines</td>
+}{
+url=http://www.merrimack.com/
+name=Merrimack Pharmaceuticals 
+city=Cambridge, MA
+desc=Biologics</td>
+}{
+url=http://www.mersana.com
+name=Mersana Therapeutics 
+city=Cambridge, MA
+desc=Drug Delivery</td>
+}{
+url=http://metamarkgenetics.com/
+name=Metamark Genetics 
+city=Cambridge, MA
+desc=Cancer Diagnostics</td>
+}{
+url=http://www.millennium.com
+name=Millennium Pharmaceuticals (Takeda) 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=http://www.millennium.com
+name=Millennium Pharmaceuticals (Takeda) 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=http://www.misprobiotech.com/
+name=Mispro Biotech Services 
+city=Cambridge, MA
+desc=Animal husbandry facilities</td>
+}{
+url=http://mitobridge.com/
+name=Mitobridge&nbsp; 
+city=Cambridge, MA
+desc=Therapeutics to improve mitochondrial function</td>
+}{
+url=http://www.modernatx.com
+name=Moderna Therapeutics 
+city=Cambridge, MA
+desc=RNA Therapies</td>
+}{
+url=http://www.momentapharma.com
+name=Momenta Pharmaceuticals 
+city=Cambridge, MA
+desc=Sugar Drugs</td>
+}{
+url=http://www.mxortho.com/
+name=MX Orthopedics 
+city=Cambridge, MA
+desc=Screws, plates, implants</td>
+}{
+url=http://www.myomo.com/
+name=Myomo 
+city=Cambridge, MA
+desc=Arm brace to support and move weak arm</td>
+}{
+url=http://www.nanobiosym.com
+name=Nanobiosym 
+city=Cambridge, MA
+desc=Nanobiotech</td>
+}{
+url=http://www.navitorpharma.com/
+name=Navitor Pharmaceuticals 
+city=Cambridge, MA
+desc=drug discovery related to central metabolic signaling pathways</td>
+}{
+url=http://neontherapeutics.com/
+name=Neon Therapeutics 
+city=Cambridge, MA
+desc=Vaccines &amp; T cell therapies</td>
+}{
+url=http://www.neurophage.com
+name=NeuroPhage Pharmaceuticals 
+city=Cambridge, MA
+desc=Protein Disaggregation Therapies</td>
+}{
+url=http://www.neurovance.com/
+name=Neurovance 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=http://www.neurovascps.com/
+name=NeuroVasc Preclinical Services 
+city=Cambridge, MA
+desc=Preclinical animal models &amp; contract research</td>
+}{
+url=http://nimbustx.com/
+name=Nimbus Therapeutics 
+city=Cambridge, MA
+desc=Computer-Based Drug Discovery</td>
+}{
+url=http://www.ninepointmedical.com/#
+name=NinePoint Medical 
+city=Cambridge, MA
+desc=Tissue imaging</td>
+}{
+url=http://www.novartis.com
+name=Novartis  
+city=Cambridge, MA
+desc=Small Molecules, Vaccines, Biologics /Diagnostics</td>
+}{
+url=http://www.novobiotic.com
+name=NovoBiotic Pharmaceuticals 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=http://www.noxxon.com
+name=Noxxon Pharma 
+city=Cambridge, MA
+desc=L-aptamers</td>
+}{
+url=http://www.nucleabio.com/
+name=Nuclea Biotechnologies 
+city=Cambridge, MA
+desc=Biomarkers and diagnostics</td>
+}{
+url=http://www.omixon.com/
+name=Omixon 
+city=Cambridge, MA
+desc=Next-gen sequencing products</td>
+}{
+url=http://www.onecell.com/
+name=One Cell Systems 
+city=Cambridge, MA
+desc=Single cell assays</td>
+}{
+url=http://onkaido.com/
+name=Onkaido Therapeutics (Moderna Therapeutics) 
+city=Cambridge, MA
+desc=mRNA for cancer</td>
+}{
+url=http://www.oryzon.com
+name=Oryzon Genomics  
+city=Cambridge, MA
+desc=Biomarker Identification, Drugs</td>
+}{
+url=http://ovascience.com
+name=OvaScience 
+city=Cambridge, MA
+desc=Fertility, Mitochondria Transplantation</td>
+}{
+url=http://www.padlocktherapeutics.com/
+name=Padlock Therapeutics 
+city=Cambridge, MA
+desc=Enzyme therapies (Protein-arginine deiminases)</td>
+}{
+url=https://www.pamgene.com/
+name=PamGene 
+city=Cambridge, MA
+desc=Microarray Equipment, Chips</td>
+}{
+url=http://www.pathfindercelltherapy.com/
+name=Pathfinder Cell Therapy 
+city=Cambridge, MA
+desc=Cell-based Therapy</td>
+}{
+url=http://www.permeonbio.com
+name=Permeon Biologics 
+city=Cambridge, MA
+desc=Cellular Penetration of Protein Therapeutics</td>
+}{
+url=http://www.pfizer.com
+name=Pfizer 
+city=Cambridge, MA
+desc=Small Molecules, Biologics</td>
+}{
+url=http://www.pharmamar.com
+name=Pharmamar (Zeltia) 
+city=Cambridge, MA
+desc=Marine-derived Compounds</td>
+}{
+url=http://www.phylonix.com
+name=Phylonix 
+city=Cambridge, MA
+desc=Toxicity &amp; Efficacy Test</td>
+}{
+url=https://www.portalinstruments.com/
+name=Portal Instruments 
+city=Cambridge, MA
+desc=Needle-free drug delivery platform</td>
+}{
+url=http://www.potenzatherapeutics.com/index.php
+name=Potenza Therapeutics 
+city=Cambridge, MA
+desc=Immuno-oncology therapeutics</td>
+}{
+url=http://www.prometrika.com
+name=Prometrika 
+city=Cambridge, MA
+desc=Contract Clinical Work</td>
+}{
+url=http://www.pronutriabio.com/
+name=Pronutria Biosciences 
+city=Cambridge, MA
+desc=Amino acid mediated therapeutics</td>
+}{
+url=http://www.propharmagroup.com/
+name=ProPharma Group 
+city=Cambridge, MA
+desc=Consulting</td>
+}{
+url=http://www.proteostasis.com
+name=Proteostasis Therapeutics 
+city=Cambridge, MA
+desc=Proteome Homeostasis Regulators</td>
+}{
+url=http://www.quanttus.com/
+name=Quanttus 
+city=Cambridge, MA
+desc=Health Sensors and personal health data</td>
+}{
+url=http://quartetmedicine.com/
+name=Quartet Medicine 
+city=Cambridge, MA
+desc=Treatments for chronic pain &amp; inflammation</td>
+}{
+url=http://www.rapharma.com
+name=Ra Pharmaceuticals 
+city=Cambridge, MA
+desc=Peptides</td>
+}{
+url=http://www.radiuspharm.com
+name=Radius Health 
+city=Cambridge, MA
+desc=Small Molecules, Biologics</td>
+}{
+url=http://www.ranarx.com
+name=RaNA Therapeutics 
+city=Cambridge, MA
+desc=Non-Coding RNA Targeting</td>
+}{
+url=http://www.razetx.com/
+name=Raze Therapeutics 
+city=Cambridge, MA
+desc=1C metabolism therapeutics</td>
+}{
+url=http://www.retrophin.com
+name=Retrophin 
+city=Cambridge, MA
+desc=Small Molecules, Biologics</td>
+}{
+url=http://www.riparianpharma.com/
+name=Riparian Pharmaceuticals 
+city=Cambridge, MA
+desc=Vascular-derived therapies</td>
+}{
+url=http://www.rodintherapeutics.com/
+name=Rodin Therapeutics 
+city=Cambridge, MA
+desc=HDAC2 Inhibitors</td>
+}{
+url=http://www.rubiustx.com/
+name=Rubius Therapeutics 
+city=Cambridge, MA
+desc=Enucleated cell therapeutics</td>
+}{
+url=http://sagerx.com
+name=Sage Therapeutics 
+city=Cambridge, MA
+desc=Small Molecules for CNS Disorders </td>
+}{
+url=http://www.sanofi.us
+name=Sanofi 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=http://www.sanofipasteur.us
+name=Sanofi Pasteur 
+city=Cambridge, MA
+desc=Biologics, Vaccines</td>
+}{
+url=http://www.sarepta.com/
+name=Sarepta Therapeutics 
+city=Cambridge, MA
+desc=Biologics</td>
+}{
+url=http://www.scholarrock.com/
+name=Scholar Rock 
+city=Cambridge, MA
+desc=Biologics</td>
+}{
+url=http://www.schrodinger.com
+name=Schrodinger 
+city=Cambridge, MA
+desc=Computer-Based Drug Discovery</td>
+}{
+url=http://www.scientiaadv.com
+name=Scientia Advisors 
+city=Cambridge, MA
+desc=Life Sciences Consulting</td>
+}{
+url=http://www.selventa.com
+name=Selventa 
+city=Cambridge, MA
+desc=Screening, Discovery</td>
+}{
+url=http://www.selvita.com
+name=Selvita 
+city=Cambridge, MA
+desc=Drug Discovery</td>
+}{
+url=http://www.semma-tx.com/
+name=Semma Therapeutics 
+city=Cambridge, MA
+desc=Diabetes Stem Cell Treatments</td>
+}{
+url=http://serestherapeutics.com/
+name=Seres Therapeutics 
+city=Cambridge, MA
+desc=Microbial drugs to counteract antibiotic side effects</td>
+}{
+url=http://www.shire.com
+name=Shire 
+city=Cambridge, MA
+desc=Small Molecule, Enzymes</td>
+}{
+url=http://www.shire.com
+name=Shire 
+city=Cambridge, MA
+desc=Small Molecule, Enzymes</td>
+}{
+url=http://www.sparktx.com
+name=Spark Therapeutics 
+city=Cambridge, MA
+desc=Singe Dose Gene Therapy</td>
+}{
+url=http://sperotherapeutics.com/
+name=Spero Therapeutics 
+city=Cambridge, MA
+desc=Anti-infectives</td>
+}{
+url=http://www.sphingotec.de/
+name=sphingotec&nbsp; 
+city=Cambridge, MA
+desc=Breast cancer diagnostic</td>
+}{
+url=http://www.stcbiologics.com/stcweb/www.stcbiologics.com/Home.html
+name=STC Biologics 
+city=Cambridge, MA
+desc=Services</td>
+}{
+url=https://www.stemgent.com
+name=Stemgent 
+city=Cambridge, MA
+desc=Stem Cell Supplies</td>
+}{
+url=http://www.surfaceoncology.com/index.html
+name=Surface Oncology 
+city=Cambridge, MA
+desc=cancer immunotherapies</td>
+}{
+url=http://www.syndevrx.com/
+name=SynDevRx 
+city=Cambridge, MA
+desc=Polymer conjugate</td>
+}{
+url=http://synlogictx.com/
+name=Synlogic&nbsp; 
+city=Cambridge, MA
+desc=synthetically engineered, therapeutic microbes</td>
+}{
+url=http://targanox.com/
+name=Targanox 
+city=Cambridge, MA
+desc=Small molecules</td>
+}{
+url=http://www.temperopharma.com
+name=Tempero Pharmaceuticals 
+city=Cambridge, MA
+desc=T Cell Balance Therapies</td>
+}{
+url=http://www.tenshatherapeutics.com
+name=Tensha Therapeutics 
+city=Cambridge, MA
+desc=Small Molecule Bromodomain Inhibitors</td>
+}{
+url=http://www.tetragenetics.com/
+name=Tetragenetics 
+city=Cambridge, MA
+desc=Proprietary cell lines and vectors</td>
+}{
+url=http://www.tsillc.net/
+name=Thrombolytic Science International (TSI) 
+city=Cambridge, MA
+desc=Stroke drug</td>
+}{
+url=http://www.tokaipharma.com
+name=Tokai Pharmaceuticals 
+city=Cambridge, MA
+desc=Small Molecule</td>
+}{
+url=http://trektx.com/
+name=Trek Therapeutics 
+city=Cambridge, MA
+desc=Small molecules, diagnostics</td>
+}{
+url=http://www.unumrx.com/
+name=Unum Therapeutics 
+city=Cambridge, MA
+desc=cellular immunotherapies</td>
+}{
+url=
+name=Valera (Moderna Therapeutics) 
+city=Cambridge, MA
+desc=mRNA</td>
+}{
+url=http://www.valirx.com/
+name=Valirx 
+city=Cambridge, MA
+desc=Cancer therapies &amp; diagnostics</td>
+}{
+url=http://www.vaxess.com/
+name=Vaxess Technologies 
+city=Cambridge, MA
+desc=Silk Protein Technology for biologic stabilization</td>
+}{
+url=http://www.vaxxas.com/
+name=Vaxxas Nanopatch 
+city=Cambridge, MA
+desc=Vaccine patch delivery system</td>
+}{
+url=http://www.vbivaccines.com
+name=VBI Vaccines 
+city=Cambridge, MA
+desc=Vaccine Development</td>
+}{
+url=http://vedantra.com/
+name=Vedantra Pharmaceuticals 
+city=Cambridge, MA
+desc=HPV-induced cancer treatments</td>
+}{
+url=http://www.verastem.com
+name=Verastem 
+city=Cambridge, MA
+desc=Drugs Targeting Cancer Stem Cells</td>
+}{
+url=http://vcel.com/
+name=Vericel 
+city=Cambridge, MA
+desc=Cellular Therapy</td>
+}{
+url=http://www.veristat.com
+name=Veristat 
+city=Cambridge, MA
+desc=Contract Clinical Research</td>
+}{
+url=http://www.vrtx.com
+name=Vertex 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=http://www.vrtx.com
+name=Vertex 
+city=Cambridge, MA
+desc=Small Molecules</td>
+}{
+url=http://www.visterrainc.com/
+name=Visterra 
+city=Cambridge, MA
+desc=Monoclonal Antibody</td>
+}{
+url=http://www.voyagertherapeutics.com/
+name=Voyager Therapeutics 
+city=Cambridge, MA
+desc=CNS Gene Therapy</td>
+}{
+url=http://www.warpdrivebio.com
+name=Warp Drive Bio 
+city=Cambridge, MA
+desc=Nature-Derived Therapeutic Discovery</td>
+}{
+url=http://www.wntrxpharm.com/
+name=WntRx Pharmaceuticals 
+city=Cambridge, MA
+desc=novel inhibitors of beta-catenin</td>
+}{
+url=http://www.nextcode.com/
+name=WuXiNextCODE (WuXi PharmTech) 
+city=Cambridge, MA
+desc=Genomic sequences as diagnostics</td>
+}{
+url=http://www.x4pharma.com/
+name=X4 Pharmaceuticals 
+city=Cambridge, MA
+desc=Oral small molecules</td>
+}{
+url=http://ymirbiosciences.com/ymir/
+name=Ymir Genomics 
+city=Cambridge, MA
+desc=miRNA for diagnosis</td>
+}{
+url=http://yumanity.com/
+name=Yumanity Therapeutics 
+city=Cambridge, MA
+desc=Protein misfolding conditions</td>
+}{
+url=http://www.zafgen.com
+name=Zafgen 
+city=Cambridge, MA
+desc=Anti-Obesity Small Molecules</td>
+}{
+url=http://www.cellsciences.com
+name=Cell Sciences 
+city=Canton, MA
+desc=Proteins, Reagents, Kits</td>
+}{
+url=http://www.chemiclabs.com
+name=Chemic Laboratories 
+city=Canton, MA
+desc=Contract Analytical Services</td>
+}{
+url=http://www.collegiumpharma.com
+name=Collegium Pharmaceutical 
+city=Canton, MA
+desc=Small Molecules</td>
+}{
+url=http://www.organogenesis.com
+name=Organogenesis 
+city=Canton, MA
+desc=Biologics</td>
+}{
+url=http://www.sanofipasteur.us
+name=Sanofi Pasteur 
+city=Canton, MA
+desc=Biologics, Vaccines</td>
+}{
+url=http://www.vittamed.com/
+name=Vittamed 
+city=Carlisle, MA
+desc=Non-invasive absolute intracranial pressure meter</td>
+}{
+url=http://etonbio.com
+name=Eton Bioscience 
+city=Charlestown, MA
+desc=Research Reagents, Kits, Peptides, Services, etc</td>
+}{
+url=http://actokine.com/
+name=Actokine 
+city=Chestnut Hill, MA
+desc=Discovering novel functions of existing molecules</td>
+}{
+url=http://www.neurotargetingsystems.com/
+name=Neurotargeting Systems 
+city=Chestnut Hill, MA
+desc=Neuroimaging of moving animals</td>
+}{
+url=http://www.seahorsebio.com
+name=Seahorse Bioscience (Agilent) 
+city=Chicopee, MA
+desc=Cell Culture Arrays</td>
+}{
+url=http://www.geneius.com/
+name=Geneius Biotechnology 
+city=Cohasset, MA
+desc=Immuno-oncology targeting</td>
+}{
+url=http://www.kyndermed.com/
+name=KynderMed 
+city=Cohasset, MA
+desc=Devices and therapeutics for preterm labor prevention</td>
+}{
+url=http://www.alopexx.com/company/oncology/
+name=Alopexx Oncology (Alopexx) 
+city=Concord, MA
+desc=Oncology drug</td>
+}{
+url=http://www.alopexx.com/company/pharmaceuticals/
+name=Alopexx Pharmaceuticals (Alopexx) 
+city=Concord, MA
+desc=Monoclonal antibody</td>
+}{
+url=http://www.alopexx.com/company/vaccine/
+name=Alopexx Vaccine (Alopexx) 
+city=Concord, MA
+desc=Vaccine</td>
+}{
+url=http://www.cognoptix.com/
+name=Cognoptix&nbsp; 
+city=Concord, MA
+desc=Eye scanning diagnostic</td>
+}{
+url=http://www.polyremedy.com/
+name=PolyRemedy 
+city=Concord, MA
+desc=Wound care system</td>
+}{
+url=http://www.valerion.com/
+name=Valerion Therapeutics 
+city=Concord, MA
+desc=Biotherapeutics for orphan genetic diseases</td>
+}{
+url=http://www.abiomed.com
+name=Abiomed 
+city=Danvers, MA
+desc=Medical Devices</td>
+}{
+url=http://admune.com/
+name=Admune Therapeutics 
+city=Danvers, MA
+desc=Cancer immunotherapy</td>
+}{
+url=https://www.beckmancoulter.com
+name=Beckman Coulter Genomics (Danaher) 
+city=Danvers, MA
+desc=Genomic , Protein Services</td>
+}{
+url=http://bio-techne.bionostics.com/pages/index.php?page=home
+name=Bio-techne (Techne) 
+city=Danvers, MA
+desc=in-vitro diagnostics devices</td>
+}{
+url=http://www.cellsignal.com/
+name=Cell Signaling Technology 
+city=Danvers, MA
+desc=Antibodies, ELISA kits, research products</td>
+}{
+url=http://www.medtronic.com
+name=Medtronic 
+city=Danvers, MA
+desc=Medical Devices</td>
+}{
+url=http://www.millipore.com
+name=Millipore (Merck KGaA) 
+city=Danvers, MA
+desc=Purification, Analytic Biologics, Discovery </td>
+}{
+url=http://www.veritasgenetics.com/
+name=VeritasGenetics 
+city=Danvers, MA
+desc=Genetic testing for BRCA</td>
+}{
+url=http://www.bms.com
+name=Bristol-Myers Squibb 
+city=Devens, MA
+desc=Small Molecules, Biologics</td>
+}{
+url=http://www.acciusa.com
+name=Associates of Cape Cod 
+city=East Falmouth, MA
+desc=Endotoxin Testing</td>
+}{
+url=http://cirtecmed.com/
+name=CIRTEC Medical Systems 
+city=East Longmeadow, MA
+desc=Contract Medical Devices</td>
+}{
+url=http://www.celldextherapeutics.com
+name=Celldex Therapeutics 
+city=Fall River, MA
+desc=Small Molecules, Biologics, Vaccines</td>
+}{
+url=http://www.arthrt.com
+name=Arrhythmia Research Technology 
+city=Fitchburg, MA
+desc=Electrocardiography Software</td>
+}{
+url=http://www.absciex.com
+name=AB Sciex 
+city=Framingham, MA
+desc=Mass Spectrometers and Training</td>
+}{
+url=https://www.thermofisher.com/us/en/home.html
+name=Applied Biosystems (Thermo Fisher) 
+city=Framingham, MA
+desc=Science Behemoth</td>
+}{
+url=http://www.berghealth.com/
+name=Berg 
+city=Framingham, MA
+desc=Small Molecules</td>
+}{
+url=http://www.bostonheartdiagnostics.com/
+name=Boston Heart Diagnostics (eurofins) 
+city=Framingham, MA
+desc=Heart diagnostics and care solutions</td>
+}{
+url=http://www.heartware.com/
+name=HeartWare 
+city=Framingham, MA
+desc=Heart Failure treatment devices</td>
+}{
+url=
+name=PP Manufacturing Corporation  (Virbac) 
+city=Framingham, MA
+desc=Feline vaccine</td>
+}{
+url=http://www.gtc-bio.com
+name=rEVO Biologics (LFB) 
+city=Framingham, MA
+desc=Biologics</td>
+}{
+url=http://www.newenglandpeptide.com
+name=New England Peptide 
+city=Gardner, MA
+desc=Antibodies &amp; Peptides</td>
+}{
+url=http://www.raslabs.com/
+name=Ras Labs 
+city=Hingham, MA
+desc=Electroactive polymers for synthetic muscles</td>
+}{
+url=http://acpharis.com/
+name=Acpharis 
+city=Holliston, MA
+desc=Homology modeling of proteins, high throughput virtual screening of databases, and the assessment of compounds</td>
+}{
+url=http://www.harvardapparatusregen.com/
+name=Harvard Apparatus Regenerative Technology (HART) 
+city=Holliston, MA
+desc=Regenerative Medicine Research Products</td>
+}{
+url=http://www.harvardbioscience.com/
+name=Harvard Bioscience 
+city=Holliston, MA
+desc=Scientific Instruments</td>
+}{
+url=http://www.alseres.com
+name=Alseres Pharmaceuticals 
+city=Hopkinton, MA
+desc=Molecular Imaging, Biologics</td>
+}{
+url=http://www.perkinelmer.com
+name=Caliper Life Sciences (Perkin Elmer) 
+city=Hopkinton, MA
+desc=Automation, Liquid Handling, Imaging, Reagents</td>
+}{
+url=http://www.phosphorex.com/
+name=Phosphorex 
+city=Hopkinton, MA
+desc=Nanospheres for drug delivery</td>
+}{
+url=http://www.ttelaboratories.com
+name=tte laboratories 
+city=Hopkinton, MA
+desc=Metrology/Calibration</td>
+}{
+url=http://www.neb.com
+name=New England Biolabs 
+city=Ipswich, MA
+desc=Reagents, Enzymes, Purification</td>
+}{
+url=http://www.nexcelom.com/
+name=Nexcelom Bioscience 
+city=Lawrence, MA
+desc=Cell counters</td>
+}{
+url=http://www.nxstage.com
+name=NxStage 
+city=Lawrence, MA
+desc=Medical Devices</td>
+}{
+url=http://www.agenusbio.com
+name=Agenus 
+city=Lexington, MA
+desc=Biologics</td>
+}{
+url=http://www.agilent.com
+name=Agilent 
+city=Lexington, MA
+desc=High-Throughput Screening Equipment</td>
+}{
+url=http://www.alzheon.com/
+name=Alzheon 
+city=Lexington, MA
+desc=Small Molecules targeting Alzheimer's</td>
+}{
+url=http://www.amagpharma.com
+name=AMAG Pharmaceuticals 
+city=Lexington, MA
+desc=Small Molecules</td>
+}{
+url=http://www.avaxiabiologics.com
+name=Avaxia Biologics 
+city=Lexington, MA
+desc=Orally Available Anti-TNF Antibody</td>
+}{
+url=http://www.bioscale.com
+name=BioScale 
+city=Lexington, MA
+desc=Protein Analysis Equipment</td>
+}{
+url=http://www.concertpharma.com
+name=Concert Pharmaceuticals 
+city=Lexington, MA
+desc=Small Molecule Discovery</td>
+}{
+url=http://www.curis.com
+name=Curis 
+city=Lexington, MA
+desc=Small Molecules</td>
+}{
+url=http://www.gidynamics.com/
+name=GI Dynamics 
+city=Lexington, MA
+desc=Device to prevent digestion and promote weight loss</td>
+}{
+url=http://immunexcite.com/
+name=ImmuneXcite 
+city=Lexington, MA
+desc=Monoclonal Antibodies</td>
+}{
+url=http://www.inotekpharma.com/
+name=Inotek Pharmaceuticals 
+city=Lexington, MA
+desc=Small Molecules</td>
+}{
+url=http://www.mchips.com
+name=Microchips 
+city=Lexington, MA
+desc=Drug Delivery Implants</td>
+}{
+url=http://www.n-of-one.com/
+name=N-of-One 
+city=Lexington, MA
+desc=Clinical analysis, curation and interpretation of a tumor's molecular profile</td>
+}{
+url=http://www.promedior.com
+name=Promedior 
+city=Lexington, MA
+desc=Small Molecules?</td>
+}{
+url=http://www.pulmatrix.com
+name=Pulmatrix 
+city=Lexington, MA
+desc=Inhalable Aerosols</td>
+}{
+url=http://www.quanterix.com
+name=Quanterix 
+city=Lexington, MA
+desc=Protein Quantification Technology</td>
+}{
+url=http://scpharma.com/
+name=scPharmaceuticals 
+city=Lexington, MA
+desc=Micropump &amp; delivery system</td>
+}{
+url=http://www.sekisuidiagnostics.com
+name=Sekisui Diagnostics (Sekisui Medical) 
+city=Lexington, MA
+desc=Diagnostics</td>
+}{
+url=http://www.shire.com
+name=Shire 
+city=Lexington, MA
+desc=Small Molecule, Enzymes</td>
+}{
+url=http://www.siderispharma.com/
+name=Sideris Pharmaceuticals 
+city=Lexington, MA
+desc=Small molecule iron chelators</td>
+}{
+url=http://alxn.com/
+name=Synageva BioPharma (Alexion) 
+city=Lexington, MA
+desc=Biologic Orphan Drugs</td>
+}{
+url=http://www.synapdx.com/
+name=SynapDx 
+city=Lexington, MA
+desc=Autism diagnosis</td>
+}{
+url=http://www.syntapharma.com
+name=Synta Pharmaceuticals 
+city=Lexington, MA
+desc=Small Molecules</td>
+}{
+url=http://www.t2biosystems.com
+name=T2 Biosystems 
+city=Lexington, MA
+desc=Diagnostics</td>
+}{
+url=http://www.tarisbiomedical.com
+name=Taris Biomedical 
+city=Lexington, MA
+desc=Drug-Device Delivery Methods</td>
+}{
+url=http://www.uniqure.com/
+name=uniQure 
+city=Lexington, MA
+desc=Gene Therapy</td>
+}{
+url=http://www.xeneticbio.com/
+name=Xenetic Biosciences 
+city=Lexington, MA
+desc=biologic drugs, novel oncology therapeutics and vaccinations</td>
+}{
+url=http://www.mevion.com/
+name=Mevion Medical Systems 
+city=Littleton, MA
+desc=Radiation Therapy</td>
+}{
+url=http://www.provialabs.com/
+name=Provia Labs 
+city=Littleton, MA
+desc=Biobanking, specifically dental</td>
+}{
+url=http://infobionic.com/
+name=InfoBionic 
+city=Lowell, MA
+desc=Arrhythmia detection and monitoring&nbsp;</td>
+}{
+url=http://www.rapidmicrobio.com
+name=Rapid Micro Biosystems 
+city=Lowell, MA
+desc=Microbial Analysis</td>
+}{
+url=http://www.vantixdx.com/
+name=vantix DIAGNOSTICS 
+city=Lowell, MA
+desc=point-of-care diagnostics</td>
+}{
+url=http://www.thrivebio.com/
+name=Thrive Bioscience 
+city=Lynnfield, MA
+desc=Analytical &amp; automation technology</td>
+}{
+url=http://www.covidien.com
+name=Covidien  
+city=Mansfield, MA
+desc=Small Molecules, Medical Devices</td>
+}{
+url=https://jordilabs.com/
+name=Jordi labs 
+city=Mansfield, MA
+desc=Analytical chemistry testing services</td>
+}{
+url=http://provenprocess.com/
+name=Proven Process 
+city=Mansfield, MA
+desc=Medical device design and manufacturing</td>
+}{
+url=http://www.usbio.net
+name=US Biological Life Sciences 
+city=Marblehead, MA
+desc=Antibodies, Lab Supplies</td>
+}{
+url=http://www.aptivsolutions.com
+name=Aptiv Solutions 
+city=Marlborough, MA
+desc=Clinical Trials, Consulting</td>
+}{
+url=http://www.avericadiscovery.com/
+name=Averica 
+city=Marlborough, MA
+desc=Contract Research (Chemistry, Small Molecules)</td>
+}{
+url=http://www.bostonscientific.com
+name=Boston Scientific 
+city=Marlborough, MA
+desc=Medical Devices</td>
+}{
+url=http://www.cequrcorp.com/
+name=CeQur 
+city=Marlborough, MA
+desc=Insulin pump</td>
+}{
+url=http://www.digilabglobal.com
+name=Digilab 
+city=Marlborough, MA
+desc=Genomics, Proteomics</td>
+}{
+url=http://www.glycosolutions.com/
+name=GlycoSolutions 
+city=Marlborough&nbsp;, MA
+desc=Analytical support for therapeutic protein companies</td>
+}{
+url=https://www.ocata.com
+name=Ocata Therapeutics (Astellas pending) 
+city=Marlborough, MA
+desc=Stem Cell Technology</td>
+}{
+url=http://www.oxfordimmunotec.com
+name=Oxford Immunotec 
+city=Marlborough, MA
+desc=Diagnostics</td>
+}{
+url=http://rxipharma.com
+name=RXi Pharmaceuticals 
+city=Marlborough, MA
+desc=RNAi</td>
+}{
+url=http://www.sunovion.com
+name=Sunovion (Dainippon Sumitomo) 
+city=Marlborough, MA
+desc=Small Molecules</td>
+}{
+url=http://www.theracos.com
+name=Theracos 
+city=Marlborough, MA
+desc=Small Molecules</td>
+}{
+url=http://www.veraxbiomedical.com
+name=Verax Biomedical 
+city=Marlborough, MA
+desc=Transplantation Screening</td>
+}{
+url=http://www.xcellerex.com
+name=Xcellerex (GE Healthcare) 
+city=Marlborough, MA
+desc=Biologic Products and services</td>
+}{
+url=http://www.citiuspharma.com/
+name=Citius Pharmaceuticals 
+city=Maynard, MA
+desc=505(b)(2) drugs</td>
+}{
+url=http://www.ischemix.com/
+name=Ischemix 
+city=Maynard, MA
+desc=Small Molecules</td>
+}{
+url=http://www.lathambiopharm.com
+name=Latham Biopharm Group 
+city=Maynard, MA
+desc=Consulting</td>
+}{
+url=http://www.agrivida.com
+name=Agrivida 
+city=Medford, MA
+desc=Cellulosic Ethanol</td>
+}{
+url=http://www.cocoonbiotech.com/
+name=Cocoon Biotech 
+city=Medford, MA
+desc=Biocompatible silk protein</td>
+}{
+url=http://www.glbiosciences.com
+name=Greenlight Biosciences 
+city=Medford, MA
+desc=Renewable Chemicals</td>
+}{
+url=http://www.invobioscience.com/
+name=INVO Bioscience 
+city=Medford, MA
+desc=Infertility Treatment</td>
+}{
+url=http://pixarbio.com/
+name=PixarBio 
+city=Medford, MA
+desc=Biomaterials for Parkinson's </td>
+}{
+url=http://www.progenika.com
+name=Progenika 
+city=Medford, MA
+desc=Diagnostics, Microarrays</td>
+}{
+url=http://www.sentienbiotech.com/
+name=Sentien Biotechnology 
+city=Medford, MA
+desc=Drug delivery during dialysis</td>
+}{
+url=http://www.7sbio.com/
+name=Seventh Sense 
+city=Medford, MA
+desc=Blood collection system</td>
+}{
+url=http://www.tgasciences.com
+name=TGA Sciences 
+city=Medford, MA
+desc=Contract Research</td>
+}{
+url=http://www.activmedresearch.com/
+name=ActivMed Practices &amp; Research 
+city=Methuen, MA
+desc=Clinical Research</td>
+}{
+url=http://www.baxalta.com/index.page
+name=Baxalta 
+city=Milford, MA
+desc=Biopharmaceuticals</td>
+}{
+url=http://www.mossmanassociates.com/
+name=Mossman Associates 
+city=Milford, MA
+desc=Diagnostic products for infectious disease and drug abuse</td>
+}{
+url=http://www.avecia.com
+name=Nitto Denko Avecia 
+city=Milford, MA
+desc=Oligonucleotide Manufacturing</td>
+}{
+url=http://www.seracare.com
+name=Seracare Life Sciences 
+city=Milford, MA
+desc=Biologic products for research</td>
+}{
+url=http://springbankpharm.com/
+name=Spring Bank Pharmaceuticals 
+city=Milford, MA
+desc=Small molecule nucleic acid hybrids</td>
+}{
+url=http://www.waters.com
+name=Waters 
+city=Milford, MA
+desc=Chromatography &amp; Chemistry</td>
+}{
+url=http://www.bostonscientific.com
+name=Boston Scientific 
+city=Natick, MA
+desc=Medical Devices</td>
+}{
+url=http://www.karyopharm.com
+name=Karyopharm Therapeutics 
+city=Natick, MA
+desc=Small Molecules</td>
+}{
+url=http://parcelllabs.com
+name=Parcell Labs 
+city=Natick, MA
+desc=Progenitor Cells</td>
+}{
+url=http://www.regenocell.com/
+name=RegenoCELL Therapeutics 
+city=Natick, MA
+desc=Stem Cell Therapy</td>
+}{
+url=http://www.sbhsciences.com
+name=SBH Sciences 
+city=Natick, MA
+desc=Biologics, Assays</td>
+}{
+url=http://www.sydlabs.com/
+name=Syd Labs 
+city=Natick, MA
+desc=Antibodies, reagents, research supplies, etc</td>
+}{
+url=http://www.xtalbiostructures.com
+name=Xtal BioStructures 
+city=Natick, MA
+desc=Contract Protein Production &amp; Characterization</td>
+}{
+url=http://www.zynomed.com/
+name=Zyno Medical 
+city=Natick, MA
+desc=Infusion Pumps</td>
+}{
+url=http://www.zynomed.com/
+name=Zyno Medical 
+city=Natick, MA
+desc=Infusion Pumps</td>
+}{
+url=http://www.celldextherapeutics.com
+name=Celldex Therapeutics 
+city=Needham, MA
+desc=Small Molecules, Biologics, Vaccines</td>
+}{
+url=http://www.windshire.org/
+name=The Windshire Group 
+city=Needham, MA
+desc=CMC Consulting</td>
+}{
+url=http://www.xcovery.com
+name=Xcovery 
+city=Needham, MA
+desc=Targeted cancer therapeutics</td>
+}{
+url=http://www.novexclinical.com/
+name=Novex Clinical Research 
+city=New Bedford, MA
+desc=Clinical Research</td>
+}{
+url=http://www.acuitybio.com/
+name=Acuity Bio 
+city=Newton, MA
+desc=Polymer drug delivery technologies</td>
+}{
+url=http://www.alcresta.com/
+name=Alcresta Pharmaceuticals 
+city=Newton, MA
+desc=Digestive enzyme device</td>
+}{
+url=http://www.allenapharma.com
+name=Allena Pharmaceuticals 
+city=Newton, MA
+desc=Non-Systemic, oral protein therapeutics</td>
+}{
+url=http://www.chiasmapharma.com
+name=Chiasma Pharma 
+city=Newton, MA
+desc=Drug Delivery</td>
+}{
+url=http://www.frx.com
+name=Forest Laboratories (Allergan) 
+city=Newton, MA
+desc=Pharmacogenomic Testing &amp; Drug Discovery</td>
+}{
+url=http://www.galectintherapeutics.com
+name=Galectin Therapeutics 
+city=Newton, MA
+desc=Small Molecules</td>
+}{
+url=http://scionmedtech.com
+name=Scion Medical Technologies 
+city=Newton, MA
+desc=Medical Devices</td>
+}{
+url=http://www.siamab.com/
+name=Siamab Therapeutics 
+city=Newton, MA
+desc=Therapeutic antibodies</td>
+}{
+url=http://www.stealthbt.com/
+name=Stealth Biotherapeutics 
+city=Newton, MA
+desc=Mitochondrial disease therapies</td>
+}{
+url=http://www.empiriko.com/
+name=Empiriko 
+city=Newtown, MA
+desc=Drug metabolite creation for drug discovery</td>
+}{
+url=http://www.bachpharma.com/
+name=Bach Pharma 
+city=North Andover, MA
+desc=Treatments for oxidative stress related diseases</td>
+}{
+url=http://www.oncopep.com/
+name=OncoPep 
+city=North Andover, MA
+desc=Cancer vaccine</td>
+}{
+url=http://www.lantheus.com
+name=Lantheus Medical Imaging 
+city=North Billerica, MA
+desc=Small Molecules for Imaging</td>
+}{
+url=http://www.magellanbio.com
+name=Magellan Diagnostics 
+city=North Billerica, MA
+desc=Biotech Products</td>
+}{
+url=http://www.seahorsebio.com
+name=Seahorse Bioscience (Agilent) 
+city=North Billerica, MA
+desc=Cell Culture Arrays</td>
+}{
+url=https://www.unchainedlabs.com/
+name=Unchained Labs 
+city=Norton, MA
+desc=Tools for biologics research &amp; development</td>
+}{
+url=http://www.stallergenes.com
+name=Stallergenes 
+city=Norwell, MA
+desc=Allergen Desensitization</td>
+}{
+url=http://www.strohlmedical.com/
+name=Strohl Medical Technologies 
+city=Norwell, MA
+desc=neurophysiological&nbsp;diagnosis</td>
+}{
+url=http://www.aicompanies.com/
+name=Advanced Instruments 
+city=Norwood, MA
+desc=Lab instruments</td>
+}{
+url=http://www.corbuspharma.com/
+name=Corbus Pharmaceuticals 
+city=Norwood, MA
+desc=Orphan inflammatory-fibrotic diseases</td>
+}{
+url=http://www.immunogen.com
+name=ImmunoGen 
+city=Norwood, MA
+desc=Biologics</td>
+}{
+url=http://www.analogic.com
+name=Analogic 
+city=Peabody, MA
+desc=Medical Imaging</td>
+}{
+url=http://www.masy.com
+name=Masy Systems 
+city=Pepperell, MA
+desc=Validation, Calibration, Rentals &amp; Storage</td>
+}{
+url=http://www.nucleabio.com/
+name=Nuclea Biotechnologies 
+city=Pittsfield, MA
+desc=Biomarkers and diagnostics</td>
+}{
+url=http://www.autocam-medical.com
+name=Autocam Medical 
+city=Plymouth, MA
+desc=Precision-Machined Medical Devices, Implants</td>
+}{
+url=http://medracs.com/
+name=MedRACS Clinical Research 
+city=Quincy, MA
+desc=Clinical Research</td>
+}{
+url=http://clarivein.com/
+name=Vascular Insights 
+city=Quincy, MA
+desc=Specialty infusion catheter</td>
+}{
+url=http://www.depuy.com
+name=Depuy (J&amp;J) 
+city=Raynham, MA
+desc=Medical Devices</td>
+}{
+url=http://www.emdserono.com
+name=EMD Serono (Merck KGaA) 
+city=Rockland, MA
+desc=Biologics</td>
+}{
+url=http://www.exalpha.com
+name=Exalpha Biologicals 
+city=Shirley, MA
+desc=Antibodies, Assay Kits, Enzymes</td>
+}{
+url=http://www.criver.com
+name=Charles River Laboratories 
+city=Shrewsbury, MA
+desc=Research Animal Models and Preclinical Research</td>
+}{
+url=http://www.novasep.com/
+name=Novasep 
+city=Shrewsbury, MA
+desc=Membrane Manufacturing</td>
+}{
+url=http://www.andarix.com/
+name=Andarix Pharmaceuticals 
+city=Somerville, MA
+desc=radiopharmaceutical&nbsp;</td>
+}{
+url=http://www.pressurebiosciences.com/
+name=Pressure Biosciences 
+city=South Easton, MA
+desc=Laboratory Instruments</td>
+}{
+url=http://www.veristat.com
+name=Veristat 
+city=Southborough, MA
+desc=Contract Clinical Research</td>
+}{
+url=http://emberaneuro.com
+name=Embera NeuroTherapeutics 
+city=Sudbury, MA
+desc=Addiction Therapies</td>
+}{
+url=http://www.lipimetix.com
+name=LipimetiX 
+city=Sudbury, MA
+desc=Peptide (Virtual Company)</td>
+}{
+url=http://www.mitralign.com/
+name=Mitralign 
+city=Tewksbury, MA
+desc=Valve repair system</td>
+}{
+url=http://www.thermofisher.com
+name=Thermo Fisher 
+city=Tewksbury, MA
+desc=Medical Diagnostics, Counterfeit Detection</td>
+}{
+url=http://www.neurohealing.com
+name=NeuroHealing 
+city=Waban, MA
+desc=Small Molecules</td>
+}{
+url=http://www.galenea.com
+name=Galenea 
+city=Wakefield, MA
+desc=Small Molecules</td>
+}{
+url=http://www.zsgenetics.com/
+name=ZS Genetics 
+city=Wakefield, MA
+desc=DNA sequencing technology</td>
+}{
+url=http://www.puramatrix.com/
+name=3-D Matrix 
+city=Waltham, MA
+desc=Matrix for cellular/tissue growth</td>
+}{
+url=http://www.akesobiomedical.com/
+name=Akeso Biomedical 
+city=Waltham, MA
+desc=treatment of bacterial infections and microbial biofilms</td>
+}{
+url=http://www.alere.com
+name=Alere 
+city=Waltham, MA
+desc=Medical Devices</td>
+}{
+url=http://www.alkermes.com
+name=Alkermes 
+city=Waltham, MA
+desc=Small Molecules</td>
+}{
+url=http://www.astrazeneca.com
+name=AstraZeneca 
+city=Waltham, MA
+desc=Small Molecules, Biologics</td>
+}{
+url=http://avedro.com/
+name=Avedro 
+city=Waltham, MA
+desc=Corneal cross linking</td>
+}{
+url=http://www.bg-medicine.com
+name=BG medicine 
+city=Waltham, MA
+desc=Molecular Diagnostics</td>
+}{
+url=https://www.biogen.com/
+name=Biogen 
+city=Waltham, MA
+desc=Small Molecules, Biologics</td>
+}{
+url=http://www.bms.com
+name=Bristol-Myers Squibb 
+city=Waltham, MA
+desc=Biologics</td>
+}{
+url=http://cato.com/index.shtml
+name=Cato Research 
+city=Waltham, MA
+desc=Full Service Contract Research</td>
+}{
+url=http://chronothera.com/
+name=Chrono Therapeutics 
+city=Waltham, MA
+desc=Digital Transdermal Drug Delivery</td>
+}{
+url=http://www.clcbio.com/
+name=CLCbio (Qiagen) 
+city=Waltham, MA
+desc=Microbial genetic analysis</td>
+}{
+url=http://www.corindus.com/
+name=Corindus Vascular Robotics 
+city=Waltham, MA
+desc=Robotic surgery devices</td>
+}{
+url=http://www.entasistx.com/
+name=Entasis Therapeutics 
+city=Waltham, MA
+desc=Small molecule anti-infectives</td>
+}{
+url=http://www.eyegatepharma.com
+name=Eyegate Pharma 
+city=Waltham, MA
+desc=Drug Delivery, Ocular Drugs</td>
+}{
+url=http://www.forumpharma.com/
+name=Forum Pharmaceuticals 
+city=Waltham, MA
+desc=Small Molecules</td>
+}{
+url=http://fractyl.com/
+name=Fractyl 
+city=Waltham, MA
+desc=Thermal ablation therapy</td>
+}{
+url=http://www.frenovarenalresearch.com/
+name=Frenova Renal Research 
+city=Waltham, MA
+desc=Renal clinical research</td>
+}{
+url=http://www.genzyme.com
+name=Genzyme (Sanofi) 
+city=Waltham, MA
+desc=Small Molecules, Biologics</td>
+}{
+url=http://www.gsk.com
+name=GlaxoSmithKline 
+city=Waltham, MA
+desc=Research</td>
+}{
+url=https://www.glytecsystems.com/
+name=Glytec 
+city=Waltham, MA
+desc=Predictive dosing algorithm for diabetes</td>
+}{
+url=http://www.histogenics.com
+name=Histogenics 
+city=Waltham, MA
+desc=Neocartilage, Regenerative Medicine</td>
+}{
+url=http://www.immunogen.com
+name=ImmunoGen 
+city=Waltham, MA
+desc=Biologics</td>
+}{
+url=http://www.ilgenetics.com
+name=Interleukin Genetics 
+city=Waltham, MA
+desc=DNA testing</td>
+}{
+url=http://junotherapeutics.com/
+name=Juno Therapeutics 
+city=Waltham, MA
+desc=Immunotherapy</td>
+}{
+url=http://www.kalarx.com
+name=Kala Pharmaceuticals 
+city=Waltham, MA
+desc=Drug Delivery</td>
+}{
+url=http://www.mascoma.com
+name=Mascoma 
+city=Waltham, MA
+desc=Renewable Biofuels</td>
+}{
+url=http://www.minervabio.com/
+name=Minerva Biotechnologies 
+city=Waltham, MA
+desc=Nanoparticles, Reagents for stem cell research, cancer therapeutics</td>
+}{
+url=http://minervaneurosciences.com/
+name=Minerva Neurosciences 
+city=Waltham, MA
+desc=CNS treatments</td>
+}{
+url=http://netbio.com
+name=NetBio 
+city=Waltham, MA
+desc=DNA Analysis</td>
+}{
+url=http://www.neurometrix.com/
+name=NeuroMetrix 
+city=Waltham, MA
+desc=Device Delivering Pain Relief</td>
+}{
+url=http://www.nktrx.com
+name=NKT Therapeutics 
+city=Waltham, MA
+desc=Natural Killer T-Cell Therapeutics</td>
+}{
+url=http://www.novabiomedical.com
+name=Nova Biomedical 
+city=Waltham, MA
+desc=Sample Analyzers</td>
+}{
+url=http://www.oxigene.com
+name=OXiGENE&nbsp; 
+city=Waltham, MA
+desc=Small Molecules</td>
+}{
+url=http://www.parexel.com
+name=Parexel 
+city=Waltham, MA
+desc=Clinical Research</td>
+}{
+url=http://www.perkinelmer.com
+name=Perkin Elmer 
+city=Waltham, MA
+desc=Biotech Lab Supplies</td>
+}{
+url=http://www.proteontherapeutics.com/
+name=Proteon Therapeutics 
+city=Waltham, MA
+desc=Recombinant human elastase</td>
+}{
+url=http://www.repligen.com
+name=RepliGen 
+city=Waltham, MA
+desc=Protein Manufacturing</td>
+}{
+url=http://www.sobi.com
+name=Swedish Orphan&nbsp;Biovitrum (Sobi) 
+city=Waltham, MA
+desc=Biologics</td>
+}{
+url=http://www.syndax.com
+name=Syndax Pharmaceuticals 
+city=Waltham, MA
+desc=Tumor Phenotype Modification</td>
+}{
+url=http://www.teibio.com
+name=TEI Biosciences  (Integra Life Sciences) 
+city=Waltham, MA
+desc=Regenerative Medicine</td>
+}{
+url=http://www.tesarobio.com
+name=Tesaro 
+city=Waltham, MA
+desc=Small Molecule</td>
+}{
+url=http://www.thermofisher.com
+name=Thermo Fisher 
+city=Waltham, MA
+desc=Lab Supplies and Equipment</td>
+}{
+url=http://www.x-chemrx.com/
+name=X-Chem Pharmaceuticals 
+city=Waltham, MA
+desc=Small molecule drug discovery</td>
+}{
+url=http://xiostx.com/
+name=Xios Therapeutics 
+city=Waltham, MA
+desc=Small molecules for cancer</td>
+}{
+url=http://xtuit.com/
+name=Xtuit 
+city=Waltham, MA
+desc=Cancer Therapy</td>
+}{
+url=http://www.smithersavanza.com/
+name=Smithers Avanza 
+city=Wareham, MA
+desc=Contract Research</td>
+}{
+url=http://www.480biomedical.com/
+name=480 Biomedical 
+city=Watertown, MA
+desc=Biomedical scaffold technology</td>
+}{
+url=http://advancedcathetermanufacturing.com/
+name=AdvancedCath&nbsp; 
+city=Watertown, MA
+desc=Catheter manufacturing &amp; development</td>
+}{
+url=http://www.ambergen.com/
+name=Ambergen 
+city=Watertown, MA
+desc=Assay &amp; Detection Technology</td>
+}{
+url=http://www.arsenalmedical.com/
+name=Arsenal Medical 
+city=Watertown, MA
+desc=Therapeutic foam technology</td>
+}{
+url=http://biomirex.com/
+name=Biomirex 
+city=Watertown, MA
+desc=Contract and internal antibody drug discovery</td>
+}{
+url=http://www.biomodels.com
+name=Biomodels 
+city=Watertown, MA
+desc=Contract Preclinical Work</td>
+}{
+url=http://www.cyprotex.com/
+name=Cyprotex 
+city=Watertown, MA
+desc=Contract Small Molecules</td>
+}{
+url=http://www.enanta.com
+name=Enanta Pharmaceuticals 
+city=Watertown, MA
+desc=Small Molecules</td>
+}{
+url=http://www.exergen.com
+name=Exergen 
+city=Watertown, MA
+desc=Noninvasive Thermometers</td>
+}{
+url=http://formatherapeutics.com
+name=Forma Therapeutics 
+city=Watertown, MA
+desc=Small Molecules</td>
+}{
+url=http://macrolidepharma.com/
+name=Macrolide Pharmaceuticals 
+city=Watertown, MA
+desc=Antibiotics</td>
+}{
+url=http://www.psivida.com/
+name=pSivida 
+city=Watertown, MA
+desc=miniaturized, sustained-release drug delivery products</td>
+}{
+url=http://www.selectabio.com
+name=Selecta Biosciences 
+city=Watertown, MA
+desc=Synthetic Vaccine Particles</td>
+}{
+url=http://syros.com/
+name=Syros Pharmaceuticals 
+city=Watertown, MA
+desc=Gene Regulation Drug Discovery Platform</td>
+}{
+url=http://www.tarveda.com/
+name=Tarveda Therapeutics 
+city=Watertown, MA
+desc=nanoparticle drugs known as "Pentarins"</td>
+}{
+url=http://www.tphase.com
+name=Tetraphase Pharmaceuticals 
+city=Watertown, MA
+desc=Antibiotic Small Molecules</td>
+}{
+url=http://vicam.com
+name=Vicam 
+city=Watertown, MA
+desc=Microbiological tests</td>
+}{
+url=http://www.wolfelabs.com
+name=Wolfe Labs 
+city=Watertown, MA
+desc=Contract Research, Development</td>
+}{
+url=http://www.archtherapeutics.com/
+name=Arch Therapeutics 
+city=Wellesley, MA
+desc=Surgical device - hemostat, fluid leakage prevention</td>
+}{
+url=http://biobridges.com/
+name=BioBridges 
+city=Wellesley, MA
+desc=Consulting</td>
+}{
+url=http://janusbio.com/
+name=Janus Biotherapeutics 
+city=Wellesley, MA
+desc=autoimmunity therapeutics</td>
+}{
+url=http://www.lumicell.com/
+name=Lumicell 
+city=Wellesley, MA
+desc=Cancer imaging device technology</td>
+}{
+url=http://radikalrx.com/
+name=Radikal Therapeutics 
+city=West Tisbury, MA
+desc=Small Molecules</td>
+}{
+url=http://www.astrazeneca.com
+name=AstraZeneca 
+city=Westborough, MA
+desc=Small Molecules, Biologics</td>
+}{
+url=http://www.dunemedical.com/
+name=Dune Medical Devices 
+city=Westborough, MA
+desc=Real-time cancer detection, surgical application</td>
+}{
+url=http://www.pharmavigilant.com/
+name=PharmaVigilant 
+city=Westborough, MA
+desc=Clinical Research Consulting &amp; Services</td>
+}{
+url=http://www.cynosure.com
+name=Cynosure 
+city=Westford, MA
+desc=Hair removal device</td>
+}{
+url=http://www.howfond.com/
+name=Howfond 
+city=Westford, MA
+desc=Research &amp; Manufacturing Services</td>
+}{
+url=https://www.biogen.com/
+name=Biogen 
+city=Weston, MA
+desc=Small Molecules, Biologics</td>
+}{
+url=http://www.microfluidicscorp.com/index.php
+name=Microfluidics 
+city=Westwood, MA
+desc=High shear fluid processors</td>
+}{
+url=http://www.criver.com
+name=Charles River Laboratories 
+city=Wilmington, MA
+desc=Research Animal Models and Preclinical Research</td>
+}{
+url=https://www.chemgenes.com/
+name=ChemGenes 
+city=Wilmington, MA
+desc=DNA/RNA synthesis</td>
+}{
+url=http://www.cutispharma.com/
+name=CutisPharma 
+city=Wilmington, MA
+desc=drug products and technologies in the prescription compounding sector</td>
+}{
+url=http://www.dusapharma.com
+name=DUSA Pharmaceuticals (Sun Pharmaceuticals) 
+city=Wilmington, MA
+desc=Small Molecules, Medical Devices</td>
+}{
+url=https://www.kapabiosystems.com/
+name=Kapa Biosystems 
+city=Wilmington, MA
+desc=Enzyme solutions for next-gen sequencing, PCR</td>
+}{
+url=http://www.lakeregionmedical.com/
+name=Lake Region Medical (Greatbatch) 
+city=Wilmington, MA
+desc=Medical &amp; Surgical Devices</td>
+}{
+url=http://www.sjm.com/corporate.aspx
+name=St. Jude Medical 
+city=Wilmington, MA
+desc=Surgical and Medical Devices</td>
+}{
+url=http://www.puramatrix.com/
+name=3-D Matrix 
+city=Woburn, MA
+desc=Matrix for cellular/tissue growth</td>
+}{
+url=http://www.abpro-labs.com
+name=Abpro 
+city=Woburn, MA
+desc=Antibodies</td>
+}{
+url=http://www.alinebiosciences.com
+name=Aline Biosciences 
+city=Woburn, MA
+desc=Genetic Sequencing &amp; Purification</td>
+}{
+url=http://www.amgen.com
+name=Amgen 
+city=Woburn, MA
+desc=Biologics</td>
+}{
+url=http://www.aphios.com
+name=Aphios 
+city=Woburn, MA
+desc=Small Molecules, 'Green' Biotechnology</td>
+}{
+url=http://arqule.com
+name=ArQule 
+city=Woburn, MA
+desc=Small Molecules</td>
+}{
+url=http://www.bataviabioservices.com
+name=Batavia Bioservices 
+city=Woburn, MA
+desc=Early Stage Product Development Services</td>
+}{
+url=http://www.bd.com
+name=BD Biosciences 
+city=Woburn, MA
+desc=Lots of Biotechnology Products</td>
+}{
+url=http://www.bptc.com/
+name=BioProcess Technology Consultants 
+city=Woburn, MA
+desc=Consulting</td>
+}{
+url=http://www.biosensetech.com/
+name=BioSense Technologies 
+city=Woburn, MA
+desc=Determination of cellular susceptibility to treatments</td>
+}{
+url=http://www.biovolutions.com
+name=BioVolutions 
+city=Woburn, MA
+desc=Contract Formulation Work</td>
+}{
+url=http://www.bluestreamlabs.com
+name=Blue Stream Labs 
+city=Woburn, MA
+desc=Analytical, Biological Testing</td>
+}{
+url=http://continuuspharma.com/
+name=CONTINUUS Pharma 
+city=Woburn, MA
+desc=Continuous small molecule manufacturing</td>
+}{
+url=http://www.covarisinc.com
+name=Covaris 
+city=Woburn, MA
+desc=DNA Sample Prep</td>
+}{
+url=http://www.creagenbio.com
+name=CreaGen 
+city=Woburn, MA
+desc=Drug Discovery Services</td>
+}{
+url=http://www.cryoxtract.com/
+name=CryoXtract (Allied Minds) 
+city=Woburn, MA
+desc=Frozen sample aliquotters</td>
+}{
+url=http://www.excelimmune.com
+name=Excelimmune 
+city=Woburn, MA
+desc=Recombinant Polyclonal Antibodies</td>
+}{
+url=https://www.thermofisher.com/us/en/home.html
+name=Life Technologies (Thermo Fisher) 
+city=Woburn, MA
+desc=Microfluidics, Microarrays</td>
+}{
+url=http://www.modulargenetics.com
+name=Modular Genetics 
+city=Woburn, MA
+desc=Automated Gene Synthesis &amp; Recomb.</td>
+}{
+url=http://www.msmprotein.com
+name=MSM Protein Technologies 
+city=Woburn, MA
+desc=Antibody Discovery Technology</td>
+}{
+url=http://www.neurometrix.com/
+name=NeuroMetrix 
+city=Woburn, MA
+desc=Device Delivering Pain Relief</td>
+}{
+url=http://www.opko.com
+name=Opko Health 
+city=Woburn, MA
+desc=Biologics, Vaccines, Diagnostics, etc</td>
+}{
+url=http://www.organixinc.com
+name=Organix 
+city=Woburn, MA
+desc=Contract Research &amp; Development</td>
+}{
+url=http://pnainnovations.com/
+name=PNA Innovations 
+city=Woburn, MA
+desc=Proprietary nucleic acid platform for regulation of gene expression and manipulation of nucleic acid structures and functions</td>
+}{
+url=http://reprosource.com
+name=ReproSource 
+city=Woburn, MA
+desc=Fertility Testing</td>
+}{
+url=http://www.seqll.com/
+name=SeqLL 
+city=Woburn, MA
+desc=DNA/RNA Sequencing</td>
+}{
+url=http://www.abbvie.com
+name=AbbVie 
+city=Worcester, MA
+desc=Biologics</td>
+}{
+url=http://www.agiluxlabs.com
+name=Agilux Laboratories 
+city=Worcester, MA
+desc=Contract Small Molecule Research</td>
+}{
+url=http://www.antigenexpress.com
+name=Antigen Express (Generex Biotechnology) 
+city=Worcester, MA
+desc=Biologics</td>
+}{
+url=http://www.brmcro.com/
+name=Biomedical Research Models 
+city=Worcester, MA
+desc=Contract Research, Development, Manufacturing</td>
+}{
+url=http://www.biopal.com/
+name=BioPAL&nbsp; 
+city=Worcester, MA
+desc=MRI contrast reagents</td>
+}{
+url=http://www.blueskybioservices.com/
+name=Blue Sky Bioservices 
+city=Worcester, MA
+desc=Molecular Biology, Protein Contract</td>
+}{
+url=http://www.kbiobox.com/
+name=KBioBox 
+city=Worcester, MA
+desc=Genomic Analysis</td>
+}{
+url=http://www.kbiosim.com/
+name=KBioSim 
+city=Worcester, MA
+desc=Biophysical computer modeling</td>
+}{
+url=http://www.microbiotix.com
+name=Microbiotix 
+city=Worcester, MA
+desc=Small Molecules</td>
+}{
+url=http://www.targetedcelltherapies.us/
+name=Targeted Cell Therapies 
+city=Worcester, MA
+desc=Oral Biologics</td>
+}{
+url=http://www.zatapharmaceuticals.com/
+name=Zata Pharmaceuticals 
+city=Worcester, MA
+desc=RNA, DNA Therapeutics</td>
+}{
+url=http://www.trilliumdx.com/
+name=Trillium Diagnostics 
+city=Brewer, ME
+desc=Flow Cytometry Reagents</td>
+}{
+url=http://www.mainestandards.com
+name=Maine Standards Company 
+city=Cumberland Foreside, ME
+desc=Calibration Verification and Linearity</td>
+}{
+url=http://mitokine.com/
+name=Mitokine Biosciences 
+city=Hancock, ME
+desc=GABA measurement</td>
+}{
+url=http://www.sundiagnostics.us/
+name=Sun Diagnostics 
+city=New Gloucester, ME
+desc=Diagnostic supplies/reagents</td>
+}{
+url=http://www.eastcoastbio.com/
+name=EastCoast Bio 
+city=North Berwick, ME
+desc=Antigens, Custom Antibodies</td>
+}{
+url=http://www.bio-rad.com/
+name=Bio-rad 
+city=Portland, ME
+desc=Tumor Markers</td>
+}{
+url=http://www.immucell.com
+name=ImmuCell 
+city=Portland, ME
+desc=Biologics, Bovine Technologies</td>
+}{
+url=http://mainebiotechnology.com/
+name=Maine Biotechnology Services 
+city=Portland, ME
+desc=Contract Antibody Development, Manufacturing; Assay Services</td>
+}{
+url=http://www.putneyvet.com
+name=Putney 
+city=Portland, ME
+desc=Veterinary Generics, Human Antibiotics</td>
+}{
+url=http://www.virostat-inc.com/
+name=ViroStat 
+city=Portland, ME
+desc=Virology Research Products</td>
+}{
+url=http://www.lonza.com
+name=Lonza 
+city=Rockland, ME
+desc=Contract Manufacturing, Primarily Biologics but also others</td>
+}{
+url=http://www.alerchek.com/
+name=Alerchek 
+city=Springvale, ME
+desc=ELISA &amp; Immunoassay kits</td>
+}{
+url=http://www.bhbio.com
+name=Bar Harbor Biotech 
+city=Trenton, ME
+desc=Gene Expression Assays</td>
+}{
+url=http://www.idexx.com
+name=Idexx Laboratories 
+city=Westbrook, ME
+desc=Veterinary Technology and Services</td>
+}{
+url=http://www.lahinternational.com/
+name=Lohmann Animal Health International  
+city=Winslow, ME
+desc=Animal Vaccines</td>
+}{
+url=http://www.sunriselabs.com/therapeutic-portfolio.cfm
+name=Sunrise Labs 
+city=Auburn, NH
+desc=Various Drug Delivery Devices</td>
+}{
+url=http://www.certusintl.com
+name=Certus 
+city=Bedford, NH
+desc=Imaging Clinical Trials</td>
+}{
+url=http://www.bioconcept.com
+name=Bio-Concept Laboratories 
+city=Derry, NH
+desc=Contract Biotech, Pharmaceutical</td>
+}{
+url=https://www.xemed.com/
+name=Xemed 
+city=Durham, NH
+desc=Inhalable diagnostics</td>
+}{
+url=http://www.genextropy.com/
+name=Genextropy 
+city=Hanover, NH
+desc=predictive, non-invasive genetic risk assessment tests for cancers, autoimmune diseases, neurodegeneration diseases and metabolism disorders</td>
+}{
+url=http://s-bio.com/
+name=S-BIO (Sumitomo Bakelite) 
+city=Hudson, NH
+desc=Glycan Analysis Services</td>
+}{
+url=http://www.millipore.com
+name=Millipore (Merck KGaA) 
+city=Jaffrey, NH
+desc=Purification, Analytic Biologics, Discovery </td>
+}{
+url=http://www.lakeregionmedical.com/
+name=Lake Region Medical (Greatbatch) 
+city=Laconia, NH
+desc=Medical &amp; Surgical Devices</td>
+}{
+url=http://www.adimab.com
+name=Adimab 
+city=Lebanon, NH
+desc=Antibody Discovery</td>
+}{
+url=http://www.avitide.com/
+name=Avitide 
+city=Lebanon, NH
+desc=custom affinity purification discovery service</td>
+}{
+url=http://www.celdaramedical.com/
+name=Celdara Medical 
+city=Lebanon, NH
+desc=Cellular therapy, diagnostics</td>
+}{
+url=http://immunext.com/
+name=ImmuNext 
+city=Lebanon, NH
+desc=Immunotherapy</td>
+}{
+url=http://www.mascoma.com
+name=Mascoma 
+city=Lebanon, NH
+desc=Renewable Biofuels</td>
+}{
+url=http://www.preventagehealthcare.com/
+name=PreventAGE Health Care 
+city=Lebanon, NH
+desc=Diagnosis of diabetes complications</td>
+}{
+url=http://www.simbex.com/
+name=Simbex 
+city=Lebanon, NH
+desc=Biomechanical devices</td>
+}{
+url=http://woomeratherapeutics.com/
+name=Woomera Therapeutics 
+city=Lebanon, NH
+desc=Monoclonal Antibodies</td>
+}{
+url=http://stealthbiologics.com/
+name=Stealth Biologics 
+city=Lyme, NH
+desc=Re-engineering proteins</td>
+}{
+url=http://www.bostonti.com/
+name=Boston Therapeutics 
+city=Manchester, NH
+desc=Compounds based on complex carbohydrate chemistry </td>
+}{
+url=http://www.affinitylifesciences.com
+name=Affinity Life Sciences 
+city=Milford, NH
+desc=Contract Manufacturing; biologics &amp; small molecules</td>
+}{
+url=http://www.metsol.com
+name=Metabolic Solutions Inc 
+city=Nashua, NH
+desc=Medical Diagnostic Breath Tests</td>
+}{
+url=http://www.veritomyx.com/
+name=Veritomyx 
+city=Nashua, NH
+desc=Spectral analysis software</td>
+}{
+url=http://www.activmedresearch.com/
+name=ActivMed Practices &amp; Research 
+city=Newington, NH
+desc=Clinical Research</td>
+}{
+url=http://www.lonza.com
+name=Lonza 
+city=Portsmouth, NH
+desc=Contract Manufacturing, Reagents, Stem Cells, Services</td>
+}{
+url=http://www.novocure.com
+name=Novocure 
+city=Portsmouth, NH
+desc=Tumor Treating Fields</td>
+}{
+url=http://www.bioconcept.com
+name=Bio-Concept Laboratories 
+city=Salem, NH
+desc=Contract Biotech, Pharmaceutical</td>
+}{
+url=http://www.bostonanalytical.com
+name=Boston Analytical 
+city=Salem, NH
+desc=Analytical Services</td>
+}{
+url=http://bio-express.com
+name=Bio X Cell 
+city=West Lebanon, NH
+desc=Fermentation &amp; Purification Services</td>
+}{
+url=http://www.cns-research.com/
+name=CNS Research 
+city=Bristol, RI
+desc=Clinical Research</td>
+}{
+url=http://www.rhodespharma.com/
+name=Rhodes Pharmaceuticals 
+city=Coventry, RI
+desc=Controlled substance generics</td>
+}{
+url=http://tedor.com
+name=Tedor Pharma 
+city=Cumberland, RI
+desc=Contract Manufacturing, Small Molecules</td>
+}{
+url=http://www.cns-research.com/
+name=CNS Research 
+city=East Providence, RI
+desc=Clinical Research</td>
+}{
+url=http://www.illuminoss.com/
+name=IlluminOss Medical 
+city=East Providence, RI
+desc=Photodynamic Bone Stabilization System</td>
+}{
+url=http://dpharm.net/
+name=Denison Pharmaceuticals 
+city=Lincoln, RI
+desc=Contract R&amp;D and Manufacturing &nbsp;Services; Topical and Oral Semisolids, Solutions, and Suspensions</td>
+}{
+url=http://www.neurotechusa.com
+name=Neurotech  
+city=Lincoln, RI
+desc=Biologics</td>
+}{
+url=http://www.cns-research.com/
+name=CNS Research 
+city=Narragansett, RI
+desc=Clinical Research</td>
+}{
+url=http://www.epivax.com
+name=EpiVax 
+city=Providence, RI
+desc=Bioinformatic tools for immunogenicity screening, vaccine design, services</td>
+}{
+url=http://www.iontera.com/
+name=Iontera 
+city=Providence, RI
+desc=intelligent transdermal drug delivery</td>
+}{
+url=http://microtissues.com
+name=Microtissues 
+city=Providence, RI
+desc=3D Cell Culture</td>
+}{
+url=http://www.nabsys.com
+name=Nabsys 
+city=Providence, RI
+desc=DNA Sequencing</td>
+}{
+url=http://nsgene.dk/
+name=NsGene 
+city=Providence, RI
+desc=Biologics across the blood-brain-barrier</td>
+}{
+url=http://www.protherabiologics.com/
+name=ProThera Biologics 
+city=Providence, RI
+desc=Inter-alpha Inhibitor Proteins </td>
+}{
+url=http://www.semma-tx.com/
+name=Semma Therapeutics 
+city=Providence, RI
+desc=Diabetes Stem Cell Treatments</td>
+}{
+url=http://www.ximedica.com
+name=Ximedica 
+city=Providence, RI
+desc=Medical Devices</td>
+}{
+url=http://www.cns-research.com/
+name=CNS Research 
+city=Rumford, RI
+desc=Clinical Research</td>
+}{
+url=http://www.alxn.com
+name=Alexion Pharmaceuticals 
+city=Smithfield, RI
+desc=Biologics</td>
+}{
+url=http://www.davol.com/
+name=Davol (Bard) 
+city=Warwick, RI
+desc=Prosthetics, Implants</td>
+}{
+url=http://www.amgen.com
+name=Amgen 
+city=West Greenwich, RI
+desc=Small Molecules, Biologics</td>
+}{
+url=http://www.multicelltech.com
+name=MultiCell Technologies 
+city=Woonsocket, RI
+desc=Biologics</td>
+}{
+url=http://www.biomosaics.com/
+name=Biomosaics 
+city=Burlington, VT
+desc=Antibodies, Immunoassays, Small Molecule</td>
+}{
+url=http://www.stromatec.com/
+name=Stromatec&nbsp; 
+city=Burlington, VT
+desc=Measurement technologies</td>
+}{
+url=http://www.criver.com
+name=Charles River Laboratories 
+city=East Thetford, VT
+desc=Research Animal Models and Preclinical Research</td>
+}{
+url=http://www.haemtechbiopharma.com
+name=Haemtech Biopharma Services 
+city=Essex Junction, VT
+desc=Contract Biologics Research &amp; Development</td>
+}{
+url=http://www.mylan.com/
+name=Mylan 
+city=St Albans, VT
+desc=Generics, APIs, etc</td>
+}{
+url=http://www.biotek.com/
+name=BioTek Instruments 
+city=Winooski, VT
+desc=Imaging; Instruments</td>
+}
