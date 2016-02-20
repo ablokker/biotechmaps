@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA127BEC1C7815CF0018869D /* companies.json in Resources */ = {isa = PBXBuildFile; fileRef = FA127BEB1C7815CF0018869D /* companies.json */; };
 		FA722D351C76D9E60030704E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FA722D341C76D9E60030704E /* main.m */; };
 		FA722D381C76D9E60030704E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FA722D371C76D9E60030704E /* AppDelegate.m */; };
 		FA722D3B1C76D9E60030704E /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA722D3A1C76D9E60030704E /* RootViewController.m */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA127BEB1C7815CF0018869D /* companies.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = companies.json; sourceTree = SOURCE_ROOT; };
 		FA722D301C76D9E60030704E /* BioTechFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BioTechFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA722D341C76D9E60030704E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		FA722D361C76D9E60030704E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 			children = (
 				FA722D4D1C76DD9A0030704E /* BioTechFinder-Prefix.pch */,
 				FA722D341C76D9E60030704E /* main.m */,
+				FA127BEB1C7815CF0018869D /* companies.json */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA722D431C76D9E60030704E /* LaunchScreen.storyboard in Resources */,
+				FA127BEC1C7815CF0018869D /* companies.json in Resources */,
 				FA722D401C76D9E60030704E /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -294,6 +298,7 @@
 				FA722D491C76D9E60030704E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
