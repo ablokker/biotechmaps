@@ -6,5 +6,7 @@
 //  Copyright © 2016 Blokkmani. All rights reserved.
 //
 
-@interface RootViewController : UIViewController
+#import <MapKit/MapKit.h>
+
+@interface RootViewController : UIViewController <MKMapViewDelegate>
 @end

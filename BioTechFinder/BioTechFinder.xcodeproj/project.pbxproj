@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		FA127BEC1C7815CF0018869D /* companies.json in Resources */ = {isa = PBXBuildFile; fileRef = FA127BEB1C7815CF0018869D /* companies.json */; };
+		FA127BEE1C78D8920018869D /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA127BED1C78D8920018869D /* MapKit.framework */; };
+		FA127BF11C791D030018869D /* ABMapPin.m in Sources */ = {isa = PBXBuildFile; fileRef = FA127BF01C791D030018869D /* ABMapPin.m */; };
 		FA722D351C76D9E60030704E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FA722D341C76D9E60030704E /* main.m */; };
 		FA722D381C76D9E60030704E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FA722D371C76D9E60030704E /* AppDelegate.m */; };
 		FA722D3B1C76D9E60030704E /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA722D3A1C76D9E60030704E /* RootViewController.m */; };
@@ -17,6 +19,9 @@
 
 /* Begin PBXFileReference section */
 		FA127BEB1C7815CF0018869D /* companies.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = companies.json; sourceTree = SOURCE_ROOT; };
+		FA127BED1C78D8920018869D /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		FA127BEF1C791D030018869D /* ABMapPin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ABMapPin.h; sourceTree = "<group>"; };
+		FA127BF01C791D030018869D /* ABMapPin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ABMapPin.m; sourceTree = "<group>"; };
 		FA722D301C76D9E60030704E /* BioTechFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BioTechFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA722D341C76D9E60030704E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		FA722D361C76D9E60030704E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -34,6 +39,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA127BEE1C78D8920018869D /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -43,6 +49,7 @@
 		FA722D271C76D9E60030704E = {
 			isa = PBXGroup;
 			children = (
+				FA127BED1C78D8920018869D /* MapKit.framework */,
 				FA722D321C76D9E60030704E /* BioTechFinder */,
 				FA722D311C76D9E60030704E /* Products */,
 			);
@@ -67,6 +74,8 @@
 				FA722D411C76D9E60030704E /* LaunchScreen.storyboard */,
 				FA722D441C76D9E60030704E /* Info.plist */,
 				FA722D331C76D9E60030704E /* Supporting Files */,
+				FA127BEF1C791D030018869D /* ABMapPin.h */,
+				FA127BF01C791D030018869D /* ABMapPin.m */,
 			);
 			path = BioTechFinder;
 			sourceTree = "<group>";
@@ -112,6 +121,11 @@
 				TargetAttributes = {
 					FA722D2F1C76D9E60030704E = {
 						CreatedOnToolsVersion = 7.2.1;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -152,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA722D3B1C76D9E60030704E /* RootViewController.m in Sources */,
+				FA127BF11C791D030018869D /* ABMapPin.m in Sources */,
 				FA722D381C76D9E60030704E /* AppDelegate.m in Sources */,
 				FA722D351C76D9E60030704E /* main.m in Sources */,
 			);
